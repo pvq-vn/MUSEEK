@@ -1,0 +1,1154 @@
+[
+  {
+    "condition": {"tam_trang": "Vui vẻ"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": 25}
+  },
+  {
+    "condition": {"tam_trang": "Vui vẻ"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": 25}
+  },
+  {
+    "condition": {"tam_trang": "Vui vẻ"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": 25}
+  },
+  {
+    "condition": {"tam_trang": "Vui vẻ"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Vui vẻ"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Vui vẻ"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Vui vẻ"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Vui vẻ"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 10}
+  },
+  {
+    "condition": {"tam_trang": "Vui vẻ"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": 10}
+  },
+  {
+    "condition": {"tam_trang": "Vui vẻ"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": -20}
+  },
+  {
+    "condition": {"tam_trang": "Cô đơn"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": 25}
+  },
+  {
+    "condition": {"tam_trang": "Cô đơn"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": 25}
+  },
+  {
+    "condition": {"tam_trang": "Cô đơn"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Cô đơn"},
+    "effect": {"type": "the_loai", "target": "OST", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Cô đơn"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": -10}
+  },
+  {
+    "condition": {"tam_trang": "Cô đơn"},
+    "effect": {"type": "the_loai", "target": "Rock", "score": -10}
+  },
+  {
+    "condition": {"tam_trang": "Cô đơn"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": -15}
+  },
+  {
+    "condition": {"tam_trang": "Cô đơn"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": -15}
+  },
+  {
+    "condition": {"tam_trang": "Cô đơn"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": -15}
+  },
+  {
+    "condition": {"tam_trang": "Cô đơn"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -20}
+  },
+  {
+    "condition": {"tam_trang": "Cô đơn"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": -25}
+  },
+  {
+    "condition": {"tam_trang": "Cô đơn"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Cô đơn"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Buồn"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": 30}
+  },
+  {
+    "condition": {"tam_trang": "Buồn"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": 25}
+  },
+  {
+    "condition": {"tam_trang": "Buồn"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Buồn"},
+    "effect": {"type": "the_loai", "target": "OST", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Buồn"},
+    "effect": {"type": "the_loai", "target": "Country", "score": 10}
+  },
+  {
+    "condition": {"tam_trang": "Buồn"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": -15}
+  },
+  {
+    "condition": {"tam_trang": "Buồn"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": -15}
+  },
+  {
+    "condition": {"tam_trang": "Buồn"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": -15}
+  },
+  {
+    "condition": {"tam_trang": "Buồn"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": -20}
+  },
+  {
+    "condition": {"tam_trang": "Buồn"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -25}
+  },
+  {
+    "condition": {"tam_trang": "Buồn"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": -25}
+  },
+  {
+    "condition": {"tam_trang": "Buồn"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Buồn"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Hoài niệm"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": 30}
+  },
+  {
+    "condition": {"tam_trang": "Hoài niệm"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": 25}
+  },
+  {
+    "condition": {"tam_trang": "Hoài niệm"},
+    "effect": {"type": "the_loai", "target": "OST", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Hoài niệm"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Hoài niệm"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Hoài niệm"},
+    "effect": {"type": "the_loai", "target": "Rock", "score": 10}
+  },
+  {
+    "condition": {"tam_trang": "Hoài niệm"},
+    "effect": {"type": "the_loai", "target": "Country", "score": 10}
+  },
+  {
+    "condition": {"tam_trang": "Hoài niệm"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -20}
+  },
+  {
+    "condition": {"tam_trang": "Hoài niệm"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": -25}
+  },
+  {
+    "condition": {"tam_trang": "Hoài niệm"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Hoài niệm"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Lãng mạn"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": 30}
+  },
+  {
+    "condition": {"tam_trang": "Lãng mạn"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": 25}
+  },
+  {
+    "condition": {"tam_trang": "Lãng mạn"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 25}
+  },
+  {
+    "condition": {"tam_trang": "Lãng mạn"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Lãng mạn"},
+    "effect": {"type": "the_loai", "target": "OST", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Lãng mạn"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Lãng mạn"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Lãng mạn"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": 10}
+  },
+  {
+    "condition": {"tam_trang": "Lãng mạn"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": -15}
+  },
+  {
+    "condition": {"tam_trang": "Lãng mạn"},
+    "effect": {"type": "the_loai", "target": "Rock", "score": -20}
+  },
+  {
+    "condition": {"tam_trang": "Lãng mạn"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -25}
+  },
+  {
+    "condition": {"tam_trang": "Lãng mạn"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Lãng mạn"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Mơ mộng"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": 25}
+  },
+  {
+    "condition": {"tam_trang": "Mơ mộng"},
+    "effect": {"type": "the_loai", "target": "OST", "score": 25}
+  },
+  {
+    "condition": {"tam_trang": "Mơ mộng"},
+    "effect": {"type": "the_loai", "target": "World music", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Mơ mộng"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Mơ mộng"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Mơ mộng"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": -10}
+  },
+  {
+    "condition": {"tam_trang": "Mơ mộng"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": -10}
+  },
+  {
+    "condition": {"tam_trang": "Mơ mộng"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": -10}
+  },
+  {
+    "condition": {"tam_trang": "Mơ mộng"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": -20}
+  },
+  {
+    "condition": {"tam_trang": "Mơ mộng"},
+    "effect": {"type": "the_loai", "target": "Rock", "score": -25}
+  },
+  {
+    "condition": {"tam_trang": "Mơ mộng"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -25}
+  },
+  {
+    "condition": {"tam_trang": "Mơ mộng"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": -25}
+  },
+  {
+    "condition": {"tam_trang": "Mơ mộng"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Mơ mộng"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Mạnh mẽ"},
+    "effect": {"type": "the_loai", "target": "Rock", "score": 30}
+  },
+  {
+    "condition": {"tam_trang": "Mạnh mẽ"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": 30}
+  },
+  {
+    "condition": {"tam_trang": "Mạnh mẽ"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": 25}
+  },
+  {
+    "condition": {"tam_trang": "Mạnh mẽ"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Mạnh mẽ"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Mạnh mẽ"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Mạnh mẽ"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Mạnh mẽ"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 10}
+  },
+  {
+    "condition": {"tam_trang": "Mạnh mẽ"},
+    "effect": {"type": "the_loai", "target": "OST", "score": 10}
+  },
+  {
+    "condition": {"tam_trang": "Mạnh mẽ"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -20}
+  },
+  {
+    "condition": {"tam_trang": "Mạnh mẽ"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": -20}
+  },
+  {
+    "condition": {"tam_trang": "Mạnh mẽ"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Mạnh mẽ"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": 30}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": 30}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": 25}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động"},
+    "effect": {"type": "the_loai", "target": "Rock", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": -10}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động"},
+    "effect": {"type": "the_loai", "target": "Country", "score": -20}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -20}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": 30}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 25}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn"},
+    "effect": {"type": "the_loai", "target": "OST", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn"},
+    "effect": {"type": "the_loai", "target": "World music", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": 10}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn"},
+    "effect": {"type": "the_loai", "target": "Country", "score": 10}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -15}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn"},
+    "effect": {"type": "the_loai", "target": "Rock", "score": -20}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": -25}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": -25}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Xúc động"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": 30}
+  },
+  {
+    "condition": {"tam_trang": "Xúc động"},
+    "effect": {"type": "the_loai", "target": "OST", "score": 30}
+  },
+  {
+    "condition": {"tam_trang": "Xúc động"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": 20}
+  },
+  {
+    "condition": {"tam_trang": "Xúc động"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 15}
+  },
+  {
+    "condition": {"tam_trang": "Xúc động"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": 10}
+  },
+  {
+    "condition": {"tam_trang": "Xúc động"},
+    "effect": {"type": "the_loai", "target": "Country", "score": 10}
+  },
+  {
+    "condition": {"tam_trang": "Xúc động"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -15}
+  },
+  {
+    "condition": {"tam_trang": "Xúc động"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": -20}
+  },
+  {
+    "condition": {"tam_trang": "Xúc động"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": -25}
+  },
+  {
+    "condition": {"tam_trang": "Xúc động"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": -30}
+  },
+  {
+    "condition": {"tam_trang": "Xúc động"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": -30}
+  },
+  {
+    "condition": {"hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": 30}
+  },
+  {
+    "condition": {"hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": 30}
+  },
+  {
+    "condition": {"hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": 30}
+  },
+  {
+    "condition": {"hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": 25}
+  },
+  {
+    "condition": {"hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": 20}
+  },
+  {
+    "condition": {"hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": 20}
+  },
+  {
+    "condition": {"hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": 20}
+  },
+  {
+    "condition": {"hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": 20}
+  },
+  {
+    "condition": {"hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 10}
+  },
+  {
+    "condition": {"hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "Rock", "score": 10}
+  },
+  {
+    "condition": {"hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -20}
+  },
+  {
+    "condition": {"hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "Country", "score": -25}
+  },
+  {
+    "condition": {"hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": -30}
+  },
+  {
+    "condition": {"hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": -30}
+  },
+  {
+    "condition": {"hoat_dong": "Hẹn hò"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": 30}
+  },
+  {
+    "condition": {"hoat_dong": "Hẹn hò"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": 25}
+  },
+  {
+    "condition": {"hoat_dong": "Hẹn hò"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 25}
+  },
+  {
+    "condition": {"hoat_dong": "Hẹn hò"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": 20}
+  },
+  {
+    "condition": {"hoat_dong": "Hẹn hò"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": 15}
+  },
+  {
+    "condition": {"hoat_dong": "Hẹn hò"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": 15}
+  },
+  {
+    "condition": {"hoat_dong": "Hẹn hò"},
+    "effect": {"type": "the_loai", "target": "OST", "score": 15}
+  },
+  {
+    "condition": {"hoat_dong": "Hẹn hò"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": 10}
+  },
+  {
+    "condition": {"hoat_dong": "Hẹn hò"},
+    "effect": {"type": "the_loai", "target": "Rock", "score": -15}
+  },
+  {
+    "condition": {"hoat_dong": "Hẹn hò"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": -20}
+  },
+  {
+    "condition": {"hoat_dong": "Hẹn hò"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -25}
+  },
+  {
+    "condition": {"hoat_dong": "Hẹn hò"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": -30}
+  },
+  {
+    "condition": {"hoat_dong": "Hẹn hò"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": -30}
+  },
+  {
+    "condition": {"hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": 30}
+  },
+  {
+    "condition": {"hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": 30}
+  },
+  {
+    "condition": {"hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": 25}
+  },
+  {
+    "condition": {"hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": 25}
+  },
+  {
+    "condition": {"hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": 25}
+  },
+  {
+    "condition": {"hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": 25}
+  },
+  {
+    "condition": {"hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "Rock", "score": 25}
+  },
+  {
+    "condition": {"hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 20}
+  },
+  {
+    "condition": {"hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": 20}
+  },
+  {
+    "condition": {"hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "Country", "score": 10}
+  },
+  {
+    "condition": {"hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": -20}
+  },
+  {
+    "condition": {"hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -25}
+  },
+  {
+    "condition": {"hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": -30}
+  },
+  {
+    "condition": {"hoat_dong": "Tập trung"},
+    "effect": {"type": "the_loai", "target": "OST", "score": 30}
+  },
+  {
+    "condition": {"hoat_dong": "Tập trung"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": 25}
+  },
+  {
+    "condition": {"hoat_dong": "Tập trung"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": 20}
+  },
+  {
+    "condition": {"hoat_dong": "Tập trung"},
+    "effect": {"type": "the_loai", "target": "World music", "score": 15}
+  },
+  {
+    "condition": {"hoat_dong": "Tập trung"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 10}
+  },
+  {
+    "condition": {"hoat_dong": "Tập trung"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": -20}
+  },
+  {
+    "condition": {"hoat_dong": "Tập trung"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": -20}
+  },
+  {
+    "condition": {"hoat_dong": "Tập trung"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": -20}
+  },
+  {
+    "condition": {"hoat_dong": "Tập trung"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": -25}
+  },
+  {
+    "condition": {"hoat_dong": "Tập trung"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -25}
+  },
+  {
+    "condition": {"hoat_dong": "Tập trung"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": -25}
+  },
+  {
+    "condition": {"hoat_dong": "Tập trung"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": -30}
+  },
+  {
+    "condition": {"hoat_dong": "Tập trung"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": -30}
+  },
+  {
+    "condition": {"hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": 30}
+  },
+  {
+    "condition": {"hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": 30}
+  },
+  {
+    "condition": {"hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "OST", "score": 25}
+  },
+  {
+    "condition": {"hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 20}
+  },
+  {
+    "condition": {"hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "World music", "score": 15}
+  },
+  {
+    "condition": {"hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "Country", "score": 10}
+  },
+  {
+    "condition": {"hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": -15}
+  },
+  {
+    "condition": {"hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": -15}
+  },
+  {
+    "condition": {"hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": -15}
+  },
+  {
+    "condition": {"hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": -20}
+  },
+  {
+    "condition": {"hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -25}
+  },
+  {
+    "condition": {"hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": -25}
+  },
+  {
+    "condition": {"hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": -30}
+  },
+  {
+    "condition": {"hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": -30}
+  },
+  {
+    "condition": {"hoat_dong": "Lễ hội"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": 30}
+  },
+  {
+    "condition": {"hoat_dong": "Lễ hội"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": 25}
+  },
+  {
+    "condition": {"hoat_dong": "Lễ hội"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": 20}
+  },
+  {
+    "condition": {"hoat_dong": "Lễ hội"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": 20}
+  },
+  {
+    "condition": {"hoat_dong": "Lễ hội"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": 15}
+  },
+  {
+    "condition": {"hoat_dong": "Lễ hội"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": 15}
+  },
+  {
+    "condition": {"hoat_dong": "Lễ hội"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": 15}
+  },
+  {
+    "condition": {"hoat_dong": "Lễ hội"},
+    "effect": {"type": "the_loai", "target": "World music", "score": 15}
+  },
+  {
+    "condition": {"hoat_dong": "Lễ hội"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": 10}
+  },
+  {
+    "condition": {"hoat_dong": "Lễ hội"},
+    "effect": {"type": "the_loai", "target": "Rock", "score": 10}
+  },
+  {
+    "condition": {"hoat_dong": "Lễ hội"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": -15}
+  },
+  {
+    "condition": {"hoat_dong": "Lễ hội"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": -25}
+  },
+  {
+    "condition": {"hoat_dong": "Lễ hội"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": -30}
+  },
+  {
+    "condition": {"hoat_dong": "Nhớ kỷ niệm"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": 30}
+  },
+  {
+    "condition": {"hoat_dong": "Nhớ kỷ niệm"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": 30}
+  },
+  {
+    "condition": {"hoat_dong": "Nhớ kỷ niệm"},
+    "effect": {"type": "the_loai", "target": "OST", "score": 25}
+  },
+  {
+    "condition": {"hoat_dong": "Nhớ kỷ niệm"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 20}
+  },
+  {
+    "condition": {"hoat_dong": "Nhớ kỷ niệm"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": 15}
+  },
+  {
+    "condition": {"hoat_dong": "Nhớ kỷ niệm"},
+    "effect": {"type": "the_loai", "target": "Country", "score": 15}
+  },
+  {
+    "condition": {"hoat_dong": "Nhớ kỷ niệm"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": -15}
+  },
+  {
+    "condition": {"hoat_dong": "Nhớ kỷ niệm"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": -25}
+  },
+  {
+    "condition": {"hoat_dong": "Nhớ kỷ niệm"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": -25}
+  },
+  {
+    "condition": {"hoat_dong": "Nhớ kỷ niệm"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": -30}
+  },
+  {
+    "condition": {"hoat_dong": "Nhớ kỷ niệm"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": -30}
+  },
+  {
+    "condition": {"hoat_dong": "Trẻ em"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": 30}
+  },
+  {
+    "condition": {"hoat_dong": "Trẻ em"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": 30}
+  },
+  {
+    "condition": {"hoat_dong": "Trẻ em"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": 25}
+  },
+  {
+    "condition": {"hoat_dong": "Trẻ em"},
+    "effect": {"type": "the_loai", "target": "OST", "score": 20}
+  },
+  {
+    "condition": {"hoat_dong": "Trẻ em"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": 15}
+  },
+  {
+    "condition": {"hoat_dong": "Trẻ em"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": 10}
+  },
+  {
+    "condition": {"hoat_dong": "Trẻ em"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": -15}
+  },
+  {
+    "condition": {"hoat_dong": "Trẻ em"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": -20}
+  },
+  {
+    "condition": {"hoat_dong": "Trẻ em"},
+    "effect": {"type": "the_loai", "target": "Latin", "score": -20}
+  },
+  {
+    "condition": {"hoat_dong": "Trẻ em"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": -25}
+  },
+  {
+    "condition": {"hoat_dong": "Trẻ em"},
+    "effect": {"type": "the_loai", "target": "Rock", "score": -30}
+  },
+  {
+    "condition": {"hoat_dong": "Trẻ em"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": -30}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Acoustic"},
+    "effect": {"type": "nghe_si", "target": "Ed Sheeran", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Acoustic"},
+    "effect": {"type": "nghe_si", "target": "Justin Bieber", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Acoustic"},
+    "effect": {"type": "nghe_si", "target": "Hoài Lâm", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Acoustic"},
+    "effect": {"type": "nghe_si", "target": "Đen", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Acoustic"},
+    "effect": {"type": "nghe_si", "target": "Andiez", "score": 10}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Ballad"},
+    "effect": {"type": "nghe_si", "target": "Ed Sheeran", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Ballad"},
+    "effect": {"type": "nghe_si", "target": "Adele", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Ballad"},
+    "effect": {"type": "nghe_si", "target": "Sơn Tùng M-TP", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Ballad"},
+    "effect": {"type": "nghe_si", "target": "ERIK", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Ballad"},
+    "effect": {"type": "nghe_si", "target": "Jack", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Country"},
+    "effect": {"type": "nghe_si", "target": "Lady Gaga", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Dance"},
+    "effect": {"type": "nghe_si", "target": "Ed Sheeran", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Dance"},
+    "effect": {"type": "nghe_si", "target": "Taylor Swift", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Dance"},
+    "effect": {"type": "nghe_si", "target": "Justin Bieber", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Dance"},
+    "effect": {"type": "nghe_si", "target": "Sơn Tùng M-TP", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Dance"},
+    "effect": {"type": "nghe_si", "target": "Ava Max", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "EDM"},
+    "effect": {"type": "nghe_si", "target": "Alan Walker", "score": 30}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "EDM"},
+    "effect": {"type": "nghe_si", "target": "Sơn Tùng M-TP", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "EDM"},
+    "effect": {"type": "nghe_si", "target": "K-ICM", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "EDM"},
+    "effect": {"type": "nghe_si", "target": "Masew", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "EDM"},
+    "effect": {"type": "nghe_si", "target": "Pháo", "score": 10}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Hiphop"},
+    "effect": {"type": "nghe_si", "target": "Đen", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Hiphop"},
+    "effect": {"type": "nghe_si", "target": "Sơn Tùng M-TP", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Hiphop"},
+    "effect": {"type": "nghe_si", "target": "B Ray", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Hiphop"},
+    "effect": {"type": "nghe_si", "target": "KARIK", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Hiphop"},
+    "effect": {"type": "nghe_si", "target": "Rhymastic", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "K-Pop"},
+    "effect": {"type": "nghe_si", "target": "PUNCH", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "K-Pop"},
+    "effect": {"type": "nghe_si", "target": "JISOO", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "K-Pop"},
+    "effect": {"type": "nghe_si", "target": "CHANYEOL", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "K-Pop"},
+    "effect": {"type": "nghe_si", "target": "CHEN", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "K-Pop"},
+    "effect": {"type": "nghe_si", "target": "Crush", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Latin"},
+    "effect": {"type": "nghe_si", "target": "Shawn Mendes", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Latin"},
+    "effect": {"type": "nghe_si", "target": "Camila Cabello", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Latin"},
+    "effect": {"type": "nghe_si", "target": "Sơn Tùng M-TP", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Latin"},
+    "effect": {"type": "nghe_si", "target": "Snoop Dogg", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "OST"},
+    "effect": {"type": "nghe_si", "target": "PUNCH", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "OST"},
+    "effect": {"type": "nghe_si", "target": "Celine Dion", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "OST"},
+    "effect": {"type": "nghe_si", "target": "Naomi Scott", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "OST"},
+    "effect": {"type": "nghe_si", "target": "Crush", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "OST"},
+    "effect": {"type": "nghe_si", "target": "DAVICHI", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Pop"},
+    "effect": {"type": "nghe_si", "target": "Ed Sheeran", "score": 30}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Pop"},
+    "effect": {"type": "nghe_si", "target": "Sơn Tùng M-TP", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Pop"},
+    "effect": {"type": "nghe_si", "target": "Taylor Swift", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Pop"},
+    "effect": {"type": "nghe_si", "target": "Charlie Puth", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Pop"},
+    "effect": {"type": "nghe_si", "target": "Justin Bieber", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Quan họ"},
+    "effect": {"type": "nghe_si", "target": "Hòa Minzy", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Quan họ"},
+    "effect": {"type": "nghe_si", "target": "NSƯT Xuân Hinh", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Quan họ"},
+    "effect": {"type": "nghe_si", "target": "Masew", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "R&B"},
+    "effect": {"type": "nghe_si", "target": "Sơn Tùng M-TP", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "R&B"},
+    "effect": {"type": "nghe_si", "target": "JustaTee", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "R&B"},
+    "effect": {"type": "nghe_si", "target": "Charlie Puth", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "R&B"},
+    "effect": {"type": "nghe_si", "target": "Justin Bieber", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "R&B"},
+    "effect": {"type": "nghe_si", "target": "Rhymastic", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "Rock"},
+    "effect": {"type": "nghe_si", "target": "Keane", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "V-Pop"},
+    "effect": {"type": "nghe_si", "target": "Sơn Tùng M-TP", "score": 30}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "V-Pop"},
+    "effect": {"type": "nghe_si", "target": "Jack", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "V-Pop"},
+    "effect": {"type": "nghe_si", "target": "Đen", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "V-Pop"},
+    "effect": {"type": "nghe_si", "target": "ERIK", "score": 20}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "V-Pop"},
+    "effect": {"type": "nghe_si", "target": "JustaTee", "score": 15}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "World music"},
+    "effect": {"type": "nghe_si", "target": "Hoàng Thuỳ Linh", "score": 25}
+  },
+  {
+    "condition": {"the_loai_yeu_thich": "World music"},
+    "effect": {"type": "nghe_si", "target": "Jack", "score": 20}
+  }
+]
