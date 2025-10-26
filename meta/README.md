@@ -1,2 +1,2 @@
 pip install -r requirements.txt
-streamlit run src/app.py
+streamlit run code/app.py
