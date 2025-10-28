@@ -56,7 +56,7 @@ if recommender_system:
             st.warning("Vui lòng chọn ít nhất một tiêu chí.")
         else:
             with st.spinner("Đang tìm kiếm những giai điệu phù hợp..."):
-                recommendations = recommender_system.suggest(user_input, top_n=5)
+                recommendations = recommender_system.suggest(user_input, top_n=10)
 
                 if recommendations:
                     st.success("Nghe thử những giai điệu này xem đã đúng vibe chưa nhé:")

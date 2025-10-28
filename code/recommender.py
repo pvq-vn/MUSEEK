@@ -9,7 +9,5 @@ class Recommender:
     def suggest(self, user_input, top_n):
         if not user_input:
             return []
-        
-        top_n = 5
 
         return get_recommendations(user_input, self.songs_db, self.rules_db, top_n)
