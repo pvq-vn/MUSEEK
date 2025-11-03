@@ -898,5 +898,32 @@
     "moods": ["Buồn", "Hoài niệm"],
     "activity": ["Suy ngẫm"],
     "url": "https://music.youtube.com/watch?v=Jd90OrHmA-A"
+  },
+  {
+    "id": 101,
+    "title": "Mất kết nối (Quan họ version)",
+    "artist": "NSƯT Trần Văn Dương",
+    "genre": ["Quan họ", "V-Pop"],
+    "moods": ["Vui vẻ", "Sôi động"],
+    "activity": ["Lễ hội", "Party"],
+    "url": "https://www.youtube.com/watch?v=Rs3ewBvHAnk&list=RDRs3ewBvHAnk&start_radio=1"
+  },
+  {
+    "id": 102,
+    "title": "Bèo dạt mây trôi",
+    "artist": "Thuỳ Chi",
+    "genre": ["Quan họ", "V-Pop", "OST", "Dân ca"],
+    "moods": ["Buồn", "Hoài niệm", "Xúc động"],
+    "activity": ["Suy ngẫm", "Nhớ kỷ niệm"],
+    "url": "https://youtu.be/Tlg574e9fuU?si=LTvjnop17dJt72ev"
+  },
+  {
+    "id": 103,
+    "title": "Cò lả",
+    "artist": ["Yến Lê", "Yanbi"],
+    "genre": ["V-Pop", "Hiphop", "R&B", "Dân ca"],
+    "moods": ["Sôi động", "Vui vẻ"],
+    "activity": ["Party", "Lái xe"],
+    "url": "https://youtu.be/1IZvxVNs0OY?si=CS_TKTuKwuCEzlub"
   }
 ]

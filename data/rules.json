@@ -1089,7 +1089,7 @@
   },
   {
     "condition": {"the_loai_yeu_thich": "Quan họ"},
-    "effect": {"type": "nghe_si", "target": "Hòa Minzy", "score": 25}
+    "effect": {"type": "nghe_si", "target": "NSƯT Trần Văn Dương", "score": 25}
   },
   {
     "condition": {"the_loai_yeu_thich": "Quan họ"},
@@ -1097,7 +1097,7 @@
   },
   {
     "condition": {"the_loai_yeu_thich": "Quan họ"},
-    "effect": {"type": "nghe_si", "target": "Masew", "score": 20}
+    "effect": {"type": "nghe_si", "target": "Thuỳ Chi", "score": 20}
   },
   {
     "condition": {"the_loai_yeu_thich": "R&B"},
