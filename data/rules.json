@@ -1150,5 +1150,75 @@
   {
     "condition": {"the_loai_yeu_thich": "World music"},
     "effect": {"type": "nghe_si", "target": "Jack", "score": 20}
+  },
+
+  {"Chú thích": "kết hợp 2 conditions"},
+
+  {
+    "condition": {"tam_trang": "Buồn", "hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": 50}
+  },
+  {
+    "condition": {"tam_trang": "Buồn", "hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "Dance", "score": 45}
+  },
+  {
+    "condition": {"tam_trang": "Cô đơn", "hoat_dong": "Party"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": 45}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động", "hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "Rock", "score": 40}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động", "hoat_dong": "Suy ngẫm"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": 40}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn", "hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "R&B", "score": 45}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn", "hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "Pop", "score": 40}
+  },
+  {
+    "condition": {"tam_trang": "Lãng mạn", "hoat_dong": "Hẹn hò"},
+    "effect": {"type": "the_loai", "target": "Ballad", "score": 60}
+  },
+  {
+    "condition": {"tam_trang": "Sôi động", "hoat_dong": "Lái xe"},
+    "effect": {"type": "the_loai", "target": "EDM", "score": 55}
+  },
+  {
+    "condition": {"tam_trang": "Hoài niệm", "hoat_dong": "Nhớ kỷ niệm"},
+    "effect": {"type": "the_loai", "target": "Bolero", "score": 50}
+  },
+   {
+    "condition": {"tam_trang": "Hoài niệm", "hoat_dong": "Nhớ kỷ niệm"},
+    "effect": {"type": "the_loai", "target": "V-Pop", "score": 45}
+  },
+
+  {"Chú thích": "kết hợp 3 conditions"},
+
+  {
+    "condition": {"tam_trang": "Buồn", "hoat_dong": "Suy ngẫm", "the_loai_yeu_thich": "Hiphop"},
+    "effect": {"type": "the_loai", "target": "Hiphop", "score": 70}
+  },
+  {
+    "condition": {"tam_trang": "Vui vẻ", "hoat_dong": "Party", "the_loai_yeu_thich": "K-Pop"},
+    "effect": {"type": "the_loai", "target": "K-Pop", "score": 70}
+  },
+  {
+    "condition": {"tam_trang": "Hoài niệm", "hoat_dong": "Lái xe", "the_loai_yeu_thich": "Rock"},
+    "effect": {"type": "the_loai", "target": "Rock", "score": 65}
+  },
+  {
+    "condition": {"tam_trang": "Thư giãn", "hoat_dong": "Suy ngẫm", "the_loai_yeu_thich": "Acoustic"},
+    "effect": {"type": "the_loai", "target": "Acoustic", "score": 70}
+  },
+  {
+    "condition": {"tam_trang": "Vui vẻ", "hoat_dong": "Lễ hội", "the_loai_yeu_thich": "Quan họ"},
+    "effect": {"type": "the_loai", "target": "Quan họ", "score": 80}
   }
 ]

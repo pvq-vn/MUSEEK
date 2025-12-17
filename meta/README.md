@@ -1,2 +1,2 @@
-pip install -r requirements.txt
+pip install -r meta/requirements.txt
 streamlit run code/app.py

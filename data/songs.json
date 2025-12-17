@@ -6,7 +6,9 @@
     "genre": ["Pop", "Hiphop"],
     "moods": ["Hoài niệm", "Xúc động"],
     "activity": ["Lái xe", "Nhớ kỷ niệm", "Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=RgKAFK5djSk"
+    "youtube": "https://youtu.be/RgKAFK5djSk?si=HgIbdeIbqzAimXnI",
+    "spotify": "https://open.spotify.com/track/66CFbqJScx6zRieGllITcs",
+    "karaoke": "https://youtu.be/xHU9cDeJXBc?si=xgwLDwKayoY7rwxT"
   },
   {
     "id": 2,
@@ -15,7 +17,9 @@
     "genre": ["Pop", "Dance"],
     "moods": ["Vui vẻ", "Sôi động"],
     "activity": ["Party", "Lái xe"],
-    "url": "https://music.youtube.com/watch?v=JGwWNGJdvx8"
+    "youtube": "https://youtu.be/JGwWNGJdvx8?si=3pgfkFpMs__s647G",
+    "spotify": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3",
+    "karaoke": "https://youtu.be/o71_MatpYV0?si=lIKXK4t8qZOcuq_6"
   },
   {
     "id": 3,
@@ -24,7 +28,9 @@
     "genre": ["Pop", "Ballad", "Acoustic"],
     "moods": ["Lãng mạn"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=2Vv-BfVoq4g"
+    "youtube": "https://youtu.be/2Vv-BfVoq4g?si=dAKjO80NRgrRNi0i",
+    "spotify": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v",
+    "karaoke": "https://youtu.be/sPMA1tqWuf4?si=S28WjpfgWNNyaPc2"
   },
   {
     "id": 4,
@@ -33,7 +39,9 @@
     "genre": ["Pop", "R&B", "Ballad"],
     "moods": ["Lãng mạn"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=lp-EO5I60KA"
+    "youtube": "https://youtu.be/lp-EO5I60KA?si=wf_ZLb0xjOLJxQPz",
+    "spotify": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f",
+    "karaoke": "https://youtu.be/Dd9W3PthynU?si=LlhAh3aqRieENh31"
   },
   {
     "id": 5,
@@ -42,7 +50,9 @@
     "genre": ["EDM"],
     "moods": ["Buồn", "Hoài niệm"],
     "activity": ["Lái xe", "Tập trung", "Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=60ItHLz5WEA"
+    "youtube": "https://youtu.be/60ItHLz5WEA?si=HNXVIlaq_z9NRWwj",
+    "spotify": "https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz",
+    "karaoke": "https://youtu.be/xf5rgfur4gw?si=BOtrMqRz0gxrpNs_"
   },
   {
     "id": 6,
@@ -51,7 +61,9 @@
     "genre": ["Pop", "Dance"],
     "moods": ["Vui vẻ", "Sôi động"],
     "activity": ["Party", "Lái xe"],
-    "url": "https://music.youtube.com/watch?v=e-ORhEE9VVg"
+    "youtube": "https://youtu.be/e-ORhEE9VVg?si=tnMeghhehG44QRE1",
+    "spotify": "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g",
+    "karaoke": "https://youtu.be/MroGQrOyijc?si=LDQQ54LUrvEZM8HD"
   },
   {
     "id": 7,
@@ -60,7 +72,9 @@
     "genre": ["Pop", "R&B", "Dance"],
     "moods": ["Vui vẻ", "Hoài niệm"],
     "activity": ["Party", "Nhớ kỷ niệm"],
-    "url": "https://music.youtube.com/watch?v=kffacxfA7G4"
+    "youtube": "https://youtu.be/kffacxfA7G4?si=dyKUEwzA-CnZxapn",
+    "spotify": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA",
+    "karaoke": "https://youtu.be/1a5SWpp9Wfg?si=R1heGHfDNyGgvv3l"
   },
   {
     "id": 8,
@@ -69,7 +83,9 @@
     "genre": ["Pop"],
     "moods": ["Buồn"],
     "activity": ["Lái xe", "Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=3AtDnEC4zak"
+    "youtube": "https://youtu.be/3AtDnEC4zak?si=UXt7Nn-wwbDf6VXQ",
+    "spotify": "https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj",
+    "karaoke": "https://youtu.be/IUmIIBeYr1I?si=zj4T307Lz5lnrOgf"
   },
   {
     "id": 9,
@@ -78,7 +94,9 @@
     "genre": ["Pop", "R&B", "Ballad"],
     "moods": ["Buồn", "Xúc động"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=YQHsXMglC9A"
+    "youtube": "https://youtu.be/YQHsXMglC9A?si=kdcVJYAH5O9Tmxmd",
+    "spotify": "https://open.spotify.com/track/1Yk0cQdMLx5RzzFTYwmuld",
+    "karaoke": "https://youtu.be/doWWkG2gPPE?si=lQ1ao6Nbb_LaBAC8"
   },
   {
     "id": 10,
@@ -87,7 +105,9 @@
     "genre": ["Pop", "Latin"],
     "moods": ["Lãng mạn", "Sôi động"],
     "activity": ["Hẹn hò", "Party"],
-    "url": "https://music.youtube.com/watch?v=Pkh8UtuejGw"
+    "youtube": "https://youtu.be/Pkh8UtuejGw?si=QHuAEc0V47hcFWmo",
+    "spotify": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik",
+    "karaoke": "https://youtu.be/kC8jBnooHgs?si=U74HH6syZP_LDmzg"
   },
   {
     "id": 11,
@@ -96,7 +116,9 @@
     "genre": ["Pop", "Acoustic"],
     "moods": ["Mạnh mẽ", "Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=oyEuk8j8imI"
+    "youtube": "https://youtu.be/oyEuk8j8imI?si=gk8ftYKgSbjTmJ3y",
+    "spotify": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0",
+    "karaoke": "https://youtu.be/mY00uFz5bTA?si=hWsxxG1wMSpWBQiX"
   },
   {
     "id": 12,
@@ -105,7 +127,9 @@
     "genre": ["Pop", "R&B"],
     "moods": ["Sôi động"],
     "activity": ["Lái xe", "Party"],
-    "url": "https://music.youtube.com/watch?v=nfs8NYg7yQM"
+    "youtube": "https://youtu.be/nfs8NYg7yQM?si=rpuRgR62lY8n6Xgm",
+    "spotify": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50",
+    "karaoke": "https://youtu.be/6I3lHjuNn7g?si=x-jnpSEp0nU76vbw"
   },
   {
     "id": 13,
@@ -114,7 +138,9 @@
     "genre": ["Pop", "Dance"],
     "moods": ["Mạnh mẽ", "Sôi động"],
     "activity": ["Party"],
-    "url": "https://music.youtube.com/watch?v=QcIy9NiNbmo"
+    "youtube": "https://youtu.be/QcIy9NiNbmo?si=FtkbE4Aw6L_KYWRY",
+    "spotify": "https://open.spotify.com/track/0TvQLMecTE8utzoNmvXRbK",
+    "karaoke": "https://youtu.be/cT-oxsG9fWE?si=4e3ZN4xBJwftfXCC"
   },
   {
     "id": 14,
@@ -123,7 +149,9 @@
     "genre": ["Pop", "Acoustic", "Ballad"],
     "moods": ["Hoài niệm", "Lãng mạn"],
     "activity": ["Nhớ kỷ niệm", "Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=nSDgHBxUbVQ"
+    "youtube": "https://youtu.be/nSDgHBxUbVQ?si=zCbDjuE0eQ3Nbqvy",
+    "spotify": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL",
+    "karaoke": "https://youtu.be/XpXe2mXmhp0?si=9mu4oIVk6gXCrC8r"
   },
   {
     "id": 15,
@@ -132,7 +160,9 @@
     "genre": ["EDM"],
     "moods": ["Sôi động"],
     "activity": ["Party", "Tập trung"],
-    "url": "https://music.youtube.com/watch?v=wJnBvs3pcCU"
+    "youtube": "https://youtu.be/wJnBTPUQS5A?si=MAMHEVgzRnrk24Y1",
+    "spotify": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ",
+    "karaoke": "https://youtu.be/TSZQc_G2tYY?si=QGfxoJLsrvxm5u0j"
   },
   {
     "id": 16,
@@ -141,7 +171,9 @@
     "genre": ["Pop", "Dance"],
     "moods": ["Sôi động"],
     "activity": ["Party", "Lái xe"],
-    "url": "https://music.youtube.com/watch?v=WXBHCQYxwr0"
+    "youtube": "https://youtu.be/WXBHCQYxwr0?si=lWM39OxS0hQn_P0z",
+    "spotify": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI",
+    "karaoke": "https://youtu.be/DKN8sskhsrk?si=R-sZJ6h544l7F3SU"
   },
   {
     "id": 17,
@@ -150,7 +182,9 @@
     "genre": ["Rock"],
     "moods": ["Hoài niệm", "Thư giãn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=Oextk-If8HQ"
+    "youtube": "https://youtu.be/Oextk-If8HQ?si=dpJC4MSbWwbx2Iaj",
+    "spotify": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G",
+    "karaoke": "https://youtu.be/W7rFVqKY7ng?si=edWE-wVNHlhhNES0"
   },
   {
     "id": 18,
@@ -159,7 +193,9 @@
     "genre": ["Pop", "Ballad", "Country"],
     "moods": ["Xúc động", "Lãng mạn"],
     "activity": ["Suy ngẫm", "Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=5vheNbQlsyU"
+    "youtube": "https://youtu.be/5vheNbQlsyU?si=jnYHoU1nr2DXp_IO",
+    "spotify": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk",
+    "karaoke": "https://youtu.be/9sVKwwSvvLw?si=7QOa3Rn-v7doBABi"
   },
   {
     "id": 19,
@@ -168,7 +204,9 @@
     "genre": ["V-Pop", "Dance"],
     "moods": ["Vui vẻ", "Sôi động"],
     "activity": ["Party", "Trẻ em", "Lễ hội"],
-    "url": "https://music.youtube.com/watch?v=31f7h_y_o_A"
+    "youtube": "https://youtu.be/BwN3NiZt-PU?si=eTW2Adh1hMxrL7eN",
+    "spotify": "https://open.spotify.com/track/7G4dPEEwS9ZCiOUY67RRzw",
+    "karaoke": "https://youtu.be/wfk1ncPXOsc?si=0YJ2lhxV0ccBC-IZ"
   },
   {
     "id": 20,
@@ -177,7 +215,9 @@
     "genre": ["K-Pop", "Dance", "Pop"],
     "moods": ["Sôi động"],
     "activity": ["Party"],
-    "url": "https://music.youtube.com/watch?v=YudHcBIxlYw"
+    "youtube": "https://youtu.be/YudHcBIxlYw?si=v-xO9gIm_R-VY8bZ",
+    "spotify": "https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc",
+    "karaoke": "https://youtu.be/7u6x2SS2Nag?si=-ePd7lCN6uV_hh6l"
   },
   {
     "id": 21,
@@ -186,7 +226,9 @@
     "genre": ["K-Pop", "OST", "Ballad"],
     "moods": ["Buồn", "Lãng mạn", "Xúc động"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=pcKR0LPwoYs"
+    "youtube": "https://youtu.be/pcKR0LPwoYs?si=KxNS5HIjIE9-BByX",
+    "spotify": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K",
+    "karaoke": "https://youtu.be/xvgXkfJ1IoQ?si=IZX-14ziNH_THOJl"
   },
   {
     "id": 22,
@@ -195,7 +237,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=l-33SkD_tnw"
+    "youtube": "https://youtu.be/j8U06veqxdU?si=2Y_5yIWBqRtpQhKG",
+    "spotify": "https://open.spotify.com/track/4mTPmo5kI2LTBtI4hLgIj2",
+    "karaoke": "https://youtu.be/2-k2ziSu9b8?si=tT9Nxju6Yn7K4mh5"
   },
   {
     "id": 23,
@@ -204,7 +248,9 @@
     "genre": ["Pop", "OST", "Ballad"],
     "moods": ["Mạnh mẽ", "Xúc động"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=mw5VIEI1aCo"
+    "youtube": "https://youtu.be/mw5VIEIvuMI?si=m2KK-qLi93maBtxX",
+    "spotify": "https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR",
+    "karaoke": "https://youtu.be/wqE5j1TQWVs?si=KhzKvVv9313EhsPs"
   },
   {
     "id": 24,
@@ -213,7 +259,9 @@
     "genre": ["Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=iWZmdoY1aTE"
+    "youtube": "https://youtu.be/iWZmdoY1aTE?si=-tvFvYdJj9A7jtJL",
+    "spotify": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB",
+    "karaoke": "https://youtu.be/aT9Nb3I49oY?si=roVRmV7Tj1tBcLe4"
   },
   {
     "id": 25,
@@ -222,7 +270,9 @@
     "genre": ["V-Pop", "EDM"],
     "moods": ["Buồn", "Sôi động"],
     "activity": ["Lái xe", "Party"],
-    "url": "https://music.youtube.com/watch?v=WX7dU6eN61c"
+    "youtube": "https://youtu.be/WX7dUj14Z00?si=ZNZF44NQrlcUCxnP",
+    "spotify": "https://open.spotify.com/track/1pKnOVwSdR59AXqnW8yksv",
+    "karaoke": "https://youtu.be/cdk2mDuKm38?si=X2aAOKMUER7dTunI"
   },
   {
     "id": 26,
@@ -231,7 +281,9 @@
     "genre": ["V-Pop", "Pop"],
     "moods": ["Lãng mạn", "Vui vẻ"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=FN7r0Rr1Qyc"
+    "youtube": "https://youtu.be/FN7ALfpGxiI?si=gRgE7v_YN1cRrwtw",
+    "spotify": "https://open.spotify.com/track/4Qt47y3EVOHQjILfzJ8NhI",
+    "karaoke": "https://youtu.be/d0d9L6oLAMI?si=_tJy8Oz1-uNVov0T"
   },
   {
     "id": 27,
@@ -240,7 +292,9 @@
     "genre": ["V-Pop", "Pop"],
     "moods": ["Vui vẻ"],
     "activity": ["Lái xe", "Lễ hội"],
-    "url": "https://music.youtube.com/watch?v=G-iPShs4p98"
+    "youtube": "https://youtu.be/cBClD7jylos?si=OUqxNc_jjgXEgVSA",
+    "spotify": "https://open.spotify.com/track/15PnF9NOMz9Sdy17LVMlg9",
+    "karaoke": "https://youtu.be/-32I29C7o70?si=P9OJeGUEouJbXEQt"
   },
   {
     "id": 28,
@@ -249,7 +303,9 @@
     "genre": ["V-Pop", "EDM"],
     "moods": ["Sôi động"],
     "activity": ["Party"],
-    "url": "https://music.youtube.com/watch?v=b7zE0-KHsgo"
+    "youtube": "https://youtu.be/yoZy2E17-50?si=i5q9ZXjqtTPQH-fy",
+    "spotify": "https://open.spotify.com/track/4SUk1ZTtA6OC120afxrpRZ",
+    "karaoke": "https://youtu.be/0F4C8BqAb14?si=RZNi7EFR8YDPKL78"
   },
   {
     "id": 29,
@@ -258,7 +314,9 @@
     "genre": ["K-Pop", "OST", "Hiphop"],
     "moods": ["Lãng mạn", "Vui vẻ"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=6yIDkbbdOoE"
+    "youtube": "https://youtu.be/6GC8JF2FOgA?si=5oawKXNeYAzgcP6F",
+    "spotify": "https://open.spotify.com/track/27zrFrtUtWl2urlvjOn5xc",
+    "karaoke": "https://youtu.be/Ca5Sd4yfWUA?si=Hth58UCWDozKTIXs"
   },
   {
     "id": 30,
@@ -267,7 +325,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=k-jq-y9h_zQ"
+    "youtube": "https://youtu.be/8x2NjwwHUbQ?si=fXRpdZF-RUZbHgMM",
+    "spotify": "https://open.spotify.com/track/3P2auCiBK32lceBpWcJy9o",
+    "karaoke": "https://youtu.be/Q0Uagzs6U5k?si=QBCwaKW4T9iR7gjQ"
   },
   {
     "id": 31,
@@ -276,7 +336,9 @@
     "genre": ["V-Pop", "Latin", "Hiphop"],
     "moods": ["Sôi động"],
     "activity": ["Party", "Lái xe"],
-    "url": "https://music.youtube.com/watch?v=knW7-x7Y7RE"
+    "youtube": "https://youtu.be/knW7-x7Y7RE?si=AFcTk7FwQoDAAHmz",
+    "spotify": "https://open.spotify.com/track/5x5Vx0Musv3LSUKzjY73mA",
+    "karaoke": "https://youtu.be/4q-OkPsdpsM?si=9n5mvaJcky9RVeV4"
   },
   {
     "id": 32,
@@ -285,7 +347,9 @@
     "genre": ["K-Pop", "OST", "Pop"],
     "moods": ["Lãng mạn", "Vui vẻ"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=fTc5tuEn6_U"
+    "youtube": "https://youtu.be/fTc5tuEn6_U?si=jJgJ1EXW6sIEP14A",
+    "spotify": "https://open.spotify.com/track/1D6lK8qADoErTTLkY4YBfM",
+    "karaoke": "https://youtu.be/PkgWCT9GeDc?si=X29GAaCpUGKzdU8s"
   },
   {
     "id": 33,
@@ -294,7 +358,9 @@
     "genre": ["V-Pop", "Pop", "R&B"],
     "moods": ["Lãng mạn", "Vui vẻ"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=HXkh7EOYTK4"
+    "youtube": "https://youtu.be/HXkh7EOqcQ4?si=GQKScECiyz6-J7MK",
+    "spotify": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt",
+    "karaoke": "https://youtu.be/TE3vngXPP4Y?si=6M4kdfT2Gtmw6fDm"
   },
   {
     "id": 34,
@@ -303,7 +369,9 @@
     "genre": ["V-Pop", "EDM"],
     "moods": ["Sôi động", "Mạnh mẽ"],
     "activity": ["Lái xe", "Tập trung"],
-    "url": "https://music.youtube.com/watch?v=Llw9Q6akRo4"
+    "youtube": "https://youtu.be/Llw9Q6akRo4?si=eU8qprD6kkVPtz-v",
+    "spotify": "https://open.spotify.com/track/2eVPT00C8Z7jTRgU4XHpGt",
+    "karaoke": "https://youtu.be/ONKG2BRAr20?si=4gM6glZxNmLvgGC8"
   },
   {
     "id": 35,
@@ -312,7 +380,9 @@
     "genre": ["Pop", "Ballad"],
     "moods": ["Lãng mạn", "Mơ mộng", "Thư giãn"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=PEM0Vs8jf1w"
+    "youtube": "https://youtu.be/PEM0Vs8jf1w?si=9iywxtQBq4He-G8f",
+    "spotify": "https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn",
+    "karaoke": "https://youtu.be/ju03AIeny2Q?si=uqfCB5qt5jLRpa08"
   },
   {
     "id": 36,
@@ -321,7 +391,9 @@
     "genre": ["K-Pop", "OST", "Ballad"],
     "moods": ["Buồn", "Xúc động"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=XyzaMpAVm3s"
+    "youtube": "https://youtu.be/XyzaMpAVm3s?si=rncr4685Dxk7CAND",
+    "spotify": "https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW",
+    "karaoke": "https://youtu.be/SWtXCwFM05I?si=B5nH48IR4Riufyex"
   },
   {
     "id": 37,
@@ -330,7 +402,9 @@
     "genre": ["V-Pop", "Hiphop", "Quan họ"],
     "moods": ["Sôi động", "Vui vẻ"],
     "activity": ["Lái xe", "Lễ hội"],
-    "url": "https://music.youtube.com/watch?v=kU9oVFAYiS0"
+    "youtube": "https://youtu.be/CL13X-8o4h0?si=Xwbn-Ui7CS0FdnZ1",
+    "spotify": "https://open.spotify.com/track/4L2xuczFpbb7cjXebOBNkt",
+    "karaoke": "https://youtu.be/GAc_G1tonwg?si=LIPFhAojUiimiEBN"
   },
   {
     "id": 38,
@@ -339,7 +413,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=j-pB-gA-P3M"
+    "youtube": "https://youtu.be/j__Q13iAxNk?si=BqG97wuwAjtTsqPg",
+    "spotify": "https://open.spotify.com/track/4wwmvxcq7SCNbww8dRFn9Z",
+    "karaoke": "https://youtu.be/oqjM7Rf6Sxg?si=CtjMU1LTFEqVeBBD"
   },
   {
     "id": 39,
@@ -348,7 +424,9 @@
     "genre": ["V-Pop", "Pop", "Dance"],
     "moods": ["Vui vẻ"],
     "activity": ["Lễ hội"],
-    "url": "https://music.youtube.com/watch?v=tlu4GplnO5U"
+    "youtube": "https://youtu.be/kDmOOj5Y0DI?si=1-LGNbiQVzN_Ns4T",
+    "spotify": "https://open.spotify.com/track/1DFmiv324V6OCZpLx9ufo2",
+    "karaoke": "https://youtu.be/TyFLWehXaMM?si=8o2768e1nbN5XOcs"
   },
   {
     "id": 40,
@@ -357,7 +435,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=KGIU-w44d-w"
+    "youtube": "https://youtu.be/SItFPrgEITM?si=sDkTij1oCxVugLBa",
+    "spotify": "https://open.spotify.com/track/5gumifavkLqYWlgjJbK2Kt",
+    "karaoke": "https://youtu.be/rrStNXXKtl4?si=Sj0DdqCj0sXa6IXV"
   },
   {
     "id": 41,
@@ -366,7 +446,9 @@
     "genre": ["V-Pop", "Pop"],
     "moods": ["Vui vẻ"],
     "activity": ["Lái xe"],
-    "url": "https://music.youtube.com/watch?v=JLZC2R-E2d4"
+    "youtube": "https://youtu.be/HPL74s4VPdk?si=Ssv6AJ_GOKsAKA7w",
+    "spotify": "https://open.spotify.com/track/2qoGaLtl0nzLlqib9aIaCe",
+    "karaoke": "https://youtu.be/DAbeOVUtlY4?si=7i3QL94_LLlcNmUe"
   },
   {
     "id": 42,
@@ -375,7 +457,9 @@
     "genre": ["V-Pop", "EDM"],
     "moods": ["Sôi động"],
     "activity": ["Party", "Lái xe"],
-    "url": "https://music.youtube.com/watch?v=VTzT6wMSy2k"
+    "youtube": "https://youtu.be/qGRU3sRbaYw?si=f-Nfs-1avB5ySdTC",
+    "spotify": "https://open.spotify.com/track/7bn8ckDTI4EQIKZ6jRL4K0",
+    "karaoke": "https://youtu.be/z_kdN3bbG-o?si=q6r4RbXsWYB4xSBn"
   },
   {
     "id": 43,
@@ -384,7 +468,9 @@
     "genre": ["V-Pop", "R&B", "Hiphop"],
     "moods": ["Cô đơn", "Hoài niệm"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=163_C5UVU-I"
+    "youtube": "https://youtu.be/arJxCqviCl8?si=BblYTeZhS404o9uQ",
+    "spotify": "https://open.spotify.com/track/4GK1GQjDZN7zFglMgJJ8wN",
+    "karaoke": "https://youtu.be/u62xH5MlRX8?si=jf-fbc-2Z0Bk35wj"
   },
   {
     "id": 44,
@@ -393,7 +479,9 @@
     "genre": ["V-Pop", "Pop", "R&B"],
     "moods": ["Lãng mạn", "Vui vẻ"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=x-Qy_gaIuY8"
+    "youtube": "https://youtu.be/xypzmu5mMPY?si=K0uNCXBtgQx6T4Zk",
+    "spotify": "https://open.spotify.com/track/4vfhartd7HDWGJbdVIycEu",
+    "karaoke": "https://youtu.be/GuxpZZZE44g?si=cccRFWq80oWSgK0G"
   },
   {
     "id": 45,
@@ -402,7 +490,9 @@
     "genre": ["V-Pop", "EDM", "World music"],
     "moods": ["Sôi động", "Mạnh mẽ"],
     "activity": ["Party", "Lái xe"],
-    "url": "https://music.youtube.com/watch?v=Bhg-0I8-3-c"
+    "youtube": "https://youtu.be/Bhg-Gw953b0?si=XkvyabPBYIcxSmRv",
+    "spotify": "https://open.spotify.com/track/0J2otOvMdg62gVMMjwOvSK",
+    "karaoke": "https://youtu.be/O2bXLKRCCdI?si=Q9YRJlbzMkf9J2BH"
   },
   {
     "id": 46,
@@ -411,7 +501,9 @@
     "genre": ["V-Pop", "Acoustic", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=y_6aSG2yfe8"
+    "youtube": "https://youtu.be/y_6aSG2yfe8?si=A01TjNqejg7D8FIM",
+    "spotify": "https://open.spotify.com/track/5rVRjE3K44dbMAVtjvLdQh",
+    "karaoke": "https://youtu.be/QD80ebxomss?si=2ZaN2hBo1RBvh723"
   },
   {
     "id": 47,
@@ -420,7 +512,9 @@
     "genre": ["V-Pop", "EDM"],
     "moods": ["Sôi động"],
     "activity": ["Party", "Lái xe"],
-    "url": "https://music.youtube.com/watch?v=EV-91l_a-Ig"
+    "youtube": "https://youtu.be/EV-91JV4Fws?si=Jlm2tTu-1EUgv1Ge",
+    "spotify": "https://open.spotify.com/track/434dlxyRQ1BfjQkljiYQAT",
+    "karaoke": "https://youtu.be/0BckqYZEzaE?si=IFXrPnLRlkDwySfy"
   },
   {
     "id": 48,
@@ -429,16 +523,20 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn", "Hoài niệm"],
     "activity": ["Suy ngẫm", "Nhớ kỷ niệm"],
-    "url": "https://music.youtube.com/watch?v=2i2kh_J-n6c"
+    "youtube": "https://youtu.be/UCXao7aTDQM?si=QO_AXT7HktmZDGcC",
+    "spotify": "https://open.spotify.com/track/53zusvCJkyGYjEZ6bnLIjh",
+    "karaoke": "https://youtu.be/dWBsErkFdvM?si=9_BNk5kWO2ttRmGd"
   },
   {
     "id": 49,
     "title": "Từng Yêu",
-    "artist": "Phan Duy Anh",
+    "artist": "Hương Ly",
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=C-Qhjcm-aHM"
+    "youtube": "https://youtu.be/tbgLfI1dvOg?si=sSA9MoeArvPUDruc",
+    "spotify": "https://open.spotify.com/track/53A3wVjS0GuZvhfVEHREoC",
+    "karaoke": "https://youtu.be/pENMETTGamA?si=-E5a00_9GYHaIfJ2"
   },
   {
     "id": 50,
@@ -447,7 +545,9 @@
     "genre": ["Pop", "Ballad", "OST"],
     "moods": ["Lãng mạn", "Xúc động", "Hoài niệm"],
     "activity": ["Hẹn hò", "Nhớ kỷ niệm"],
-    "url": "https://music.youtube.com/watch?v=FHG2oizTlpY"
+    "youtube": "https://youtu.be/F2RnxZnubCM?si=cUEceJoztZp__FEs",
+    "spotify": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq",
+    "karaoke": "https://youtu.be/cdgU8YmD3Kc?si=W0yQzuCpc94EDMOH"
   },
   {
     "id": 51,
@@ -456,7 +556,9 @@
     "genre": ["V-Pop", "Pop", "R&B"],
     "moods": ["Lãng mạn", "Vui vẻ"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=h0L3A3c3p60"
+    "youtube": "https://youtu.be/KhTCatAKVpk?si=AEEZMnvJE8mRw1c0",
+    "spotify": "https://open.spotify.com/track/3J3nv18iIrOhca1ZWNeuyW",
+    "karaoke": "https://youtu.be/i86G64cd-BA?si=_iIjMlCIHtmK_lOu"
   },
   {
     "id": 52,
@@ -465,7 +567,9 @@
     "genre": ["V-Pop", "Pop", "Hiphop"],
     "moods": ["Vui vẻ", "Lãng mạn"],
     "activity": ["Party", "Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=aGUQsb31TEw"
+    "youtube": "https://youtu.be/aGUQsb31TEw?si=qeY_4ZsHuCQ9z35V",
+    "spotify": "https://open.spotify.com/track/21PfXNAfEIaw1XZeSFGHkt",
+    "karaoke": "https://youtu.be/l5rtRuxUJ7o?si=heKdY4QerJwuzad1"
   },
   {
     "id": 53,
@@ -474,7 +578,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=p8-BS-6T4vo"
+    "youtube": "https://youtu.be/NuWAl7-Vkwk?si=G08z0yPMNZLx2RQn",
+    "spotify": "https://open.spotify.com/track/2BANezde1nZC6fxCqnjCyz",
+    "karaoke": "https://youtu.be/SxwyB92QA34?si=MI9H2p1BiaTZTAzq"
   },
   {
     "id": 54,
@@ -483,7 +589,9 @@
     "genre": ["V-Pop", "Hiphop", "EDM"],
     "moods": ["Sôi động", "Mạnh mẽ", "Buồn"],
     "activity": ["Lái xe", "Party"],
-    "url": "https://music.youtube.com/watch?v=g-wx_nS3_40"
+    "youtube": "https://youtu.be/95ahbau-rJk?si=ctwVroL2SJe4ebE4",
+    "spotify": "https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC",
+    "karaoke": "https://youtu.be/8vD-4doSzDs?si=lHIaV1O7euHtjOna"
   },
   {
     "id": 55,
@@ -492,7 +600,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=1-11jTMiJ_U"
+    "youtube": "https://youtu.be/DWYwmTdXpqw?si=veea4xxy_w381oQw",
+    "spotify": "https://open.spotify.com/track/3fTurdOklrno4xxwZAtzQG",
+    "karaoke": "https://youtu.be/79ktEzyhZH8?si=XHiktRjaFkM6KX5c"
   },
   {
     "id": 56,
@@ -501,7 +611,9 @@
     "genre": ["V-Pop", "Hiphop", "Pop"],
     "moods": ["Thư giãn", "Vui vẻ"],
     "activity": ["Lái xe"],
-    "url": "https://music.youtube.com/watch?v=ddaEtFOsFeM"
+    "youtube": "https://youtu.be/ddaEtFOsFeM?si=whgJSNcAzqgFiuB8",
+    "spotify": "https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9",
+    "karaoke": "https://youtu.be/yj9NtnvHffY?si=FMUME6R1L7J1ozA5"
   },
   {
     "id": 57,
@@ -510,7 +622,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn", "Xúc động"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=r2bCRyGpr-o"
+    "youtube": "https://youtu.be/8BAdhoeabUM?si=nlcIcb8j5MkZK-5n",
+    "spotify": "https://open.spotify.com/track/1P1dtPn7zaZzFahKYJnYfH",
+    "karaoke": "https://youtu.be/KG_oBNitjYU?si=4fjEsMjUyYdz6tKk"
   },
   {
     "id": 58,
@@ -519,7 +633,9 @@
     "genre": ["V-Pop", "EDM"],
     "moods": ["Sôi động", "Buồn"],
     "activity": ["Party", "Lái xe"],
-    "url": "https://music.youtube.com/watch?v=JP-_8s43y-8"
+    "youtube": "https://youtu.be/J1VzE0S-jzk?si=3cpCxv28e88iplhh",
+    "spotify": "https://open.spotify.com/track/7f9DYV0Vs6EWCEkhyLq7Av",
+    "karaoke": "https://youtu.be/O0TBhREqJYk?si=mv1Ue8ferKffZyKu"
   },
   {
     "id": 59,
@@ -528,7 +644,9 @@
     "genre": ["V-Pop", "Pop", "World music"],
     "moods": ["Vui vẻ", "Sôi động"],
     "activity": ["Lễ hội", "Party"],
-    "url": "https://music.youtube.com/watch?v=H14bBuluwB8"
+    "youtube": "https://youtu.be/JAhdeizXpaQ?si=hcWIvlZZpmbMhcl6",
+    "spotify": "https://open.spotify.com/track/5mBWIm9EGnhZRYBYgAS72m",
+    "karaoke": "https://youtu.be/QKSaTPejiP0?si=Pkz_SquEqRWcpBfV"
   },
   {
     "id": 60,
@@ -537,7 +655,9 @@
     "genre": ["V-Pop", "Hiphop", "Pop"],
     "moods": ["Hoài niệm", "Thư giãn"],
     "activity": ["Lễ hội", "Lái xe", "Nhớ kỷ niệm"],
-    "url": "https://music.youtube.com/watch?v=vTJdVE_gjI0"
+    "youtube": "https://youtu.be/vTJdVE_gjI0?si=QYETyGHHF_0AssWU",
+    "spotify": "https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt",
+    "karaoke": "https://youtu.be/-DAP25F4N0c?si=qfqHTtulVL2p1ReU"
   },
   {
     "id": 61,
@@ -546,7 +666,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn", "Cô đơn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=Y-64i5y-a-0"
+    "youtube": "https://youtu.be/1-Zee9ZJH7o?si=M4xTysyug5BQMyAJ",
+    "spotify": "https://open.spotify.com/track/6qyjXdIRk2aZNjDj6a36vQ",
+    "karaoke": "https://youtu.be/XAzXmbBrPdU?si=tpxsSxXmJpa0uJjh"
   },
   {
     "id": 62,
@@ -555,7 +677,9 @@
     "genre": ["Pop", "EDM"],
     "moods": ["Hoài niệm", "Mơ mộng", "Thư giãn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=cRnF6o_0k-I"
+    "youtube": "https://youtu.be/-TXtyYZIiWc?si=TGkYDYPvTAwCklY-",
+    "spotify": "https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB",
+    "karaoke": "https://youtu.be/SIRHqDNpLMo?si=CF-rBcysBau0iAC1"
   },
   {
     "id": 63,
@@ -564,7 +688,9 @@
     "genre": ["V-Pop", "Pop"],
     "moods": ["Hoài niệm"],
     "activity": ["Nhớ kỷ niệm", "Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=sem-U_eM0a0"
+    "youtube": "https://youtu.be/GgQFO8dL5XQ?si=NtIuQAkPJb3DoZB3",
+    "spotify": "https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5",
+    "karaoke": "https://youtu.be/k0WMeXPgM54?si=HQtaQd5E_fpB_DGa"
   },
   {
     "id": 64,
@@ -573,7 +699,9 @@
     "genre": ["V-Pop", "Pop", "R&B"],
     "moods": ["Vui vẻ", "Lãng mạn"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=6t-MjBazs3o"
+    "youtube": "https://youtu.be/6t-MjBazs3o?si=VCftOejENWXeViq8",
+    "spotify": "https://open.spotify.com/track/6aaNsCMWPBaUuJE1grH6Po",
+    "karaoke": "https://youtu.be/eBw0JAVLoQE?si=buKtFrHmAgP-Wz2z"
   },
   {
     "id": 65,
@@ -582,7 +710,9 @@
     "genre": ["V-Pop", "Pop", "Hiphop"],
     "moods": ["Vui vẻ"],
     "activity": ["Lễ hội"],
-    "url": "https://music.youtube.com/watch?v=4e1f_d1nCEA"
+    "youtube": "https://youtu.be/gOtfJ151ue4?si=f1U_9sn7Ootxfpaf",
+    "spotify": "https://open.spotify.com/track/6rItqwUSp2mVQ6AiXFb7ly",
+    "karaoke": "https://youtu.be/fVP17UoVVJ8?si=JkrxnpMHkab_X84e"
   },
   {
     "id": 66,
@@ -591,7 +721,9 @@
     "genre": ["V-Pop", "Hiphop", "Acoustic"],
     "moods": ["Thư giãn", "Lãng mạn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=JG6-BfO4T5E"
+    "youtube": "https://youtu.be/KKc_RMln5UY?si=fLddvjwz6CLugobR",
+    "spotify": "https://open.spotify.com/track/25edeHHueINMguqu9emCyV",
+    "karaoke": "https://youtu.be/D1wW7Pff6B0?si=bzfbq1qXj9JfbjgA"
   },
   {
     "id": 67,
@@ -600,7 +732,9 @@
     "genre": ["V-Pop", "Dance"],
     "moods": ["Sôi động", "Vui vẻ"],
     "activity": ["Party", "Lái xe"],
-    "url": "https://music.youtube.com/watch?v=1exoyTkx_oE"
+    "youtube": "https://youtu.be/vjZsxtlJ-_M?si=stvmyCBMlvzoi5lG",
+    "spotify": "https://open.spotify.com/track/7fjELpY3Zbi8qRqWCWLz9B",
+    "karaoke": "https://youtu.be/nAaDQI-eNuA?si=t-UVHWpNSZPiXJ83"
   },
   {
     "id": 68,
@@ -609,7 +743,9 @@
     "genre": ["V-Pop", "Pop", "R&B"],
     "moods": ["Lãng mạn", "Buồn"],
     "activity": ["Hẹn hò", "Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=IpNI51rggdI"
+    "youtube": "https://youtu.be/IpniN1Wq68Y?si=rYTlHGkdtzv9Yv-b",
+    "spotify": "https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW",
+    "karaoke": "https://youtu.be/HVgrjza_5rQ?si=koyp_IFdSpDGMj-O"
   },
   {
     "id": 69,
@@ -618,7 +754,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=Yp-d4a4M3D0"
+    "youtube": "https://youtu.be/kSYhR8vnzBg?si=eRQTCpu4fh-XISiN",
+    "spotify": "https://open.spotify.com/track/2IMGlffBIQ6jAsRUP2EbAy",
+    "karaoke": "https://youtu.be/b_hGvb0FL4U?si=p_MVdb3FO6rSG963"
   },
   {
     "id": 70,
@@ -627,7 +765,9 @@
     "genre": ["V-Pop", "Hiphop", "Pop"],
     "moods": ["Lãng mạn"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=kYkpoaE8T-A"
+    "youtube": "https://youtu.be/h7cOOfpdEfk?si=Yn06ycTQgR5iiyj9",
+    "spotify": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR",
+    "karaoke": "https://youtu.be/q8mFT5qTegg?si=g2Gm9j7T0lIfzoB_"
   },
   {
     "id": 71,
@@ -636,7 +776,9 @@
     "genre": ["V-Pop", "Ballad", "R&B"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=30sC-tdu3-M"
+    "youtube": "https://youtu.be/30KI5SuECuc?si=sYwIbPQ4ZCDaCWL-",
+    "spotify": "https://open.spotify.com/track/6aPYnXjkZynhGXidGqIg9d",
+    "karaoke": "https://youtu.be/H6F10xI8CFg?si=IKMosej3E89TlZBG"
   },
   {
     "id": 72,
@@ -645,7 +787,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn", "Hoài niệm"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=e8oOfy7yw-c"
+    "youtube": "https://youtu.be/U44j_OHK50M?si=3cGtj_6HZWOdLpXV",
+    "spotify": "https://open.spotify.com/track/7rEkf3RAR0tG5lrh8p7oBa",
+    "karaoke": "https://youtu.be/Gv5M3DlImBM?si=K9ui-nN8LZCJ3Cju"
   },
   {
     "id": 73,
@@ -654,7 +798,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Lãng mạn", "Thư giãn"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=4CCp-i_pZ4A"
+    "youtube": "https://youtu.be/4CCGI83vOVo?si=54fcP00810k6UJoI",
+    "spotify": "https://open.spotify.com/track/2AAsBAUvOOyXT8vr1h9juD",
+    "karaoke": "https://youtu.be/ERD90nGwL0g?si=9Abi8wPJFuW7v5qw"
   },
   {
     "id": 74,
@@ -663,7 +809,9 @@
     "genre": ["V-Pop", "Ballad", "Acoustic"],
     "moods": ["Buồn", "Hoài niệm"],
     "activity": ["Suy ngẫm", "Nhớ kỷ niệm"],
-    "url": "https://music.youtube.com/watch?v=kPXOaClAI-M"
+    "youtube": "https://youtu.be/cUmpJ2zwfVU?si=6O56vKw_54VYcSK2",
+    "spotify": "https://open.spotify.com/track/1GJ3suxtUVaguVQRemw6Zp",
+    "karaoke": "https://youtu.be/s4sw1SIzynw?si=UHpmUDfldqZtJkRf"
   },
   {
     "id": 75,
@@ -672,7 +820,9 @@
     "genre": ["V-Pop", "Ballad", "R&B"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=VPQuU6n-v1I"
+    "youtube": "https://youtu.be/W6hxiDmMGSE?si=rvZ0E22QKvwNR7Wq",
+    "spotify": "https://open.spotify.com/track/5wn4ltCLEYESGr7MJlKYwv",
+    "karaoke": "https://youtu.be/iD2X81SamSg?si=whCSZHI8Abb_oZhH"
   },
   {
     "id": 76,
@@ -681,7 +831,9 @@
     "genre": ["V-Pop", "Hiphop", "R&B"],
     "moods": ["Sôi động", "Mạnh mẽ"],
     "activity": ["Party", "Lái xe"],
-    "url": "https://music.youtube.com/watch?v=30sC-tdu3-M"
+    "youtube": "https://youtu.be/32sYGCOYJUM?si=jx6hkIkdoNkdyZXF",
+    "spotify": "https://open.spotify.com/track/2iXFI7VBq8BWHtYjS2nzJe",
+    "karaoke": "https://youtu.be/uQ88zdVPR1I?si=FQrlUFM4G4rtuPxs"
   },
   {
     "id": 77,
@@ -690,7 +842,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=LCyo565N_5w"
+    "youtube": "https://youtu.be/LCyo565N_5w?si=s5f_dPGUu7oIxRMI",
+    "spotify": "https://open.spotify.com/track/3P3rcI48wwVEgxF5vPM6pG",
+    "karaoke": "https://youtu.be/pwbQu7PzPYg?si=GLEM2Gi773-jAPQP"
   },
   {
     "id": 78,
@@ -699,7 +853,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn", "Xúc động"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=y-GSyvIHPkM"
+    "youtube": "https://youtu.be/Y29OrOVJUKs?si=yWR_4pVBQ1W_lR4d",
+    "spotify": "https://open.spotify.com/track/2YJTrKGHP88Pj6hn6zyWM6",
+    "karaoke": "https://youtu.be/3bY2u508g4U?si=CMh7T59ScFiI2ZGd"
   },
   {
     "id": 79,
@@ -708,7 +864,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=D-Hh-5-bQak"
+    "youtube": "https://youtu.be/DZDYZ9nRHfU?si=8Qzg0hjQLsWYYRj-",
+    "spotify": "https://open.spotify.com/track/3rtMytBKFkyD0HygMUl727",
+    "karaoke": "https://youtu.be/TD-X3KtJYsw?si=6fNBnDe-WWgzy6g6"
   },
   {
     "id": 80,
@@ -717,7 +875,9 @@
     "genre": ["K-Pop", "OST", "Hiphop"],
     "moods": ["Buồn", "Hoài niệm", "Xúc động"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=YmXJp4V2-4k"
+    "youtube": "https://youtu.be/YmC53o2_gWk?si=V7jQT8ZKrTk15iCx",
+    "spotify": "https://open.spotify.com/track/1qsjEmjRzXVsmC0oLitHzN",
+    "karaoke": "https://youtu.be/p9uQFcDdMbI?si=2KsIQQY07xUfPSGF"
   },
   {
     "id": 81,
@@ -726,7 +886,9 @@
     "genre": ["V-Pop", "Pop", "OST"],
     "moods": ["Vui vẻ"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=1-11jTMiJ_U"
+    "youtube": "https://youtu.be/-nnWBhKZeg0?si=Gu7CUPanid03Rjrx",
+    "spotify": "https://open.spotify.com/track/4bQdhlDMDBwGEVYu6dLK9Z",
+    "karaoke": "https://youtu.be/PnW3kJo2-RE?si=Qprm0hjsir-aFrKm"
   },
   {
     "id": 82,
@@ -735,7 +897,9 @@
     "genre": ["Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=p8-BS-6T4vo"
+    "youtube": "https://youtu.be/xizg1-0JmiA?si=QbgY93gU7n_5wBpN",
+    "spotify": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc",
+    "karaoke": "https://youtu.be/qlQLSAUPL7Q?si=ZaFTs_vky2J6aQIx"
   },
   {
     "id": 83,
@@ -744,7 +908,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=W-zt83I2gLk"
+    "youtube": "https://youtu.be/1Zn4L7vi9gg?si=kQb_njF3Z9NhiXU2",
+    "spotify": "https://open.spotify.com/track/5PCQ8RYDqphQEDOHMgjSeG",
+    "karaoke": "https://youtu.be/8735IGtERiY?si=xBXY1P711y780M2C"
   },
   {
     "id": 84,
@@ -753,7 +919,9 @@
     "genre": ["V-Pop", "Pop", "Dance"],
     "moods": ["Vui vẻ", "Lãng mạn"],
     "activity": ["Hẹn hò", "Party"],
-    "url": "https://music.youtube.com/watch?v=gvGAZad6AmM"
+    "youtube": "https://youtu.be/abPmZCZZrFA?si=1UoIDyRCy8oW-zPX",
+    "spotify": "https://open.spotify.com/track/31VNCmwspR7nVJ6kruUuJt",
+    "karaoke": "https://youtu.be/wD09Vil2FAo?si=TNZ7G-FQ5dJQ_Rrb"
   },
   {
     "id": 85,
@@ -762,7 +930,9 @@
     "genre": ["V-Pop", "Hiphop", "R&B"],
     "moods": ["Sôi động", "Lãng mạn"],
     "activity": ["Party", "Lái xe", "Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=w35-X-ii0-M"
+    "youtube": "https://youtu.be/aVMlPZDxd5U?si=RtmW6dnlb2eEbFqr",
+    "spotify": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS",
+    "karaoke": "https://youtu.be/pzEtzR4lwf4?si=kY9WddEaC55aiivw"
   },
   {
     "id": 86,
@@ -771,7 +941,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=grgYMGh-2l4"
+    "youtube": "https://youtu.be/iJKV5miglAg?si=SV14wjZbMgyF7wvp",
+    "spotify": "https://open.spotify.com/track/3I7rwvOeuoezX7bwWAkPHs",
+    "karaoke": "https://youtu.be/C8LDGshb8tA?si=vDsc96LkGmRJl4S6"
   },
   {
     "id": 87,
@@ -780,7 +952,9 @@
     "genre": ["K-Pop", "OST", "Pop"],
     "moods": ["Vui vẻ", "Lãng mạn"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=f-8-IIy4-IM"
+    "youtube": "https://youtu.be/SdHQkkRc-hc?si=rzJ-DWEQR7SeuRX5",
+    "spotify": "https://open.spotify.com/track/69nXstJwZpib2MWLBmti5b",
+    "karaoke": "https://youtu.be/RkYD8jtuy1k?si=_OzOs-l02ns7EXSI"
   },
   {
     "id": 88,
@@ -789,7 +963,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn", "Mạnh mẽ"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=48NOkX8hI-A"
+    "youtube": "https://youtu.be/2sIC1sh-yc0?si=gCVX__2ZvLr3yoUp",
+    "spotify": "https://open.spotify.com/track/4DJZfZPvWYbSeFVFf2b2aS",
+    "karaoke": "https://youtu.be/IXRCh7liBR0?si=VAVQTlm03wl4lSZN"
   },
   {
     "id": 89,
@@ -798,7 +974,9 @@
     "genre": ["K-Pop", "OST", "Ballad"],
     "moods": ["Lãng mạn", "Thư giãn", "Xúc động"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=W0cs6ciCt_k"
+    "youtube": "https://youtu.be/W0cs6ciCt_k?si=-PkFnW5Zh0GDY3dD",
+    "spotify": "https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS",
+    "karaoke": "https://youtu.be/VZRZJKvnTGM?si=9S00vapqJ7DjD0kV"
   },
   {
     "id": 90,
@@ -807,7 +985,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=PoTTSeB36-I"
+    "youtube": "https://youtu.be/UqKVL56IJB8?si=uHGJzF2J4p-Epiu5",
+    "spotify": "https://open.spotify.com/track/7y5esLRCPMUalcwrFROuqR",
+    "karaoke": "https://youtu.be/5nwYi1mxNVI?si=XxuzAGIFc1470U2Q"
   },
   {
     "id": 91,
@@ -816,7 +996,9 @@
     "genre": ["V-Pop", "Hiphop", "Acoustic"],
     "moods": ["Buồn", "Hoài niệm", "Thư giãn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=Kzw5a4TbuuU"
+    "youtube": "https://youtu.be/zEWSSod0zTY?si=LKBSP5oA6t4OqDDu",
+    "spotify": "https://open.spotify.com/track/6Q2oEdOhRjZ1DTv2a7j0lN",
+    "karaoke": "https://youtu.be/iOxvOlCyaVM?si=1MtLxOLYEl1seSLo"
   },
   {
     "id": 92,
@@ -825,7 +1007,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn", "Mạnh mẽ", "Hoài niệm"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=vlzx-34e-oE"
+    "youtube": "https://youtu.be/qkPgUgkQE4Y?si=xbv9h2cSlAWtdI5d",
+    "spotify": "https://open.spotify.com/track/0ByzbJ97ch299z5YQwZzqz",
+    "karaoke": "https://youtu.be/ekFIGh0cbRU?si=5d4xtY9K78sEniS5"
   },
   {
     "id": 93,
@@ -834,7 +1018,9 @@
     "genre": ["V-Pop", "Pop", "Dance"],
     "moods": ["Sôi động"],
     "activity": ["Party", "Lái xe"],
-    "url": "https://music.youtube.com/watch?v=sd8gOMi4-bY"
+    "youtube": "https://youtu.be/Vk8_0QaJr3I?si=40PWpiG6QWiTlCu2",
+    "spotify": "https://open.spotify.com/track/6jghnZHYAyNlEiWbxDITjy",
+    "karaoke": "https://youtu.be/OuVgQtg3__A?si=F0LVi7XxoonrkfR-"
   },
   {
     "id": 94,
@@ -843,7 +1029,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn", "Xúc động"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=sEa-sY28p-s"
+    "youtube": "https://youtu.be/_esoNnEflzM?si=5T6qAgVZt_eDdsZV",
+    "spotify": "https://open.spotify.com/track/2PspjfdPnw78FIkUypoluk",
+    "karaoke": "https://youtu.be/Z1-VkA0Qj64?si=PPG6zsaQgv0MBu3m"
   },
   {
     "id": 95,
@@ -852,7 +1040,9 @@
     "genre": ["V-Pop", "Pop", "Dance"],
     "moods": ["Sôi động", "Vui vẻ"],
     "activity": ["Party", "Lễ hội"],
-    "url": "https://music.youtube.com/watch?v=cTP-N4jI-44"
+    "youtube": "https://youtu.be/rDhx4ejrPPA?si=fNW1UtaPN6lQs1wX",
+    "spotify": "https://open.spotify.com/track/3um9XWTQKYoNUgwkywCRJ8",
+    "karaoke": "https://youtu.be/R5kUAwF2T2Y?si=3IdryA5RgufH3dFZ"
   },
   {
     "id": 96,
@@ -861,7 +1051,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=jJ4X8-PML7E"
+    "youtube": "https://youtu.be/sinhZ1l54K8?si=zaGjffgPO16H_Vr0",
+    "spotify": "https://open.spotify.com/track/43zzuEWDotRcKlSFzrlJqs",
+    "karaoke": "https://youtu.be/mENiYL5V48M?si=bYbX9vUxXI78pqWF"
   },
   {
     "id": 97,
@@ -870,7 +1062,9 @@
     "genre": ["V-Pop", "Acoustic", "Pop"],
     "moods": ["Vui vẻ"],
     "activity": ["Lái xe"],
-    "url": "https://music.youtube.com/watch?v=t-NJh6c-e50"
+    "youtube": "https://youtu.be/i724lraI93s?si=Unslg185SvCk-BOY",
+    "spotify": "https://open.spotify.com/track/3OxzteADDv79dESfPexzxr",
+    "karaoke": "https://youtu.be/Ckoxqgea6Yg?si=OuWzZDRyrwWL-9QZ"
   },
   {
     "id": 98,
@@ -879,7 +1073,9 @@
     "genre": ["V-Pop", "Pop", "Hiphop"],
     "moods": ["Vui vẻ", "Lãng mạn"],
     "activity": ["Hẹn hò"],
-    "url": "https://music.youtube.com/watch?v=i-b-zt-o7-k"
+    "youtube": "https://youtu.be/iE52-XXnQqs?si=lfzFSuKYaduKGS3d",
+    "spotify": "https://open.spotify.com/track/1ez2ybZEC30wLfGchpZIA8",
+    "karaoke": "https://youtu.be/iFW_nq78INI?si=TpF29FY9yemaG7F3"
   },
   {
     "id": 99,
@@ -888,7 +1084,9 @@
     "genre": ["V-Pop", "Ballad"],
     "moods": ["Buồn"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=y-GSyvIHPkM"
+    "youtube": "https://youtu.be/iwGuiSnr2Qc?si=XBJuyc55nBKcjNrJ",
+    "spotify": "https://open.spotify.com/track/3yWacnoBnM0lrzLmXAk44d",
+    "karaoke": "https://youtu.be/dFkN-0FaCms?si=YR4CIuetTo3BS0jH"
   },
   {
     "id": 100,
@@ -897,16 +1095,20 @@
     "genre": ["Pop", "Ballad"],
     "moods": ["Buồn", "Hoài niệm"],
     "activity": ["Suy ngẫm"],
-    "url": "https://music.youtube.com/watch?v=Jd90OrHmA-A"
+    "youtube": "https://youtu.be/hgIDXTmmgDg?si=kQW-YdXhRS-Qx4ih",
+    "spotify": "https://open.spotify.com/track/2BLkUDppIU66vfDz1hngUe",
+    "karaoke": "https://youtu.be/-n3Z1zA5M34?si=zp2jnYeZnJPjoxyw"
   },
   {
     "id": 101,
-    "title": "Mất kết nối (Quan họ version)",
-    "artist": "NSƯT Trần Văn Dương",
-    "genre": ["Quan họ", "V-Pop"],
-    "moods": ["Vui vẻ", "Sôi động"],
-    "activity": ["Lễ hội", "Party"],
-    "url": "https://www.youtube.com/watch?v=Rs3ewBvHAnk&list=RDRs3ewBvHAnk&start_radio=1"
+    "title": "Mất kết nối",
+    "artist": "Dương Domic",
+    "genre": ["V-Pop", "Pop", "R&B"],
+    "moods": ["Hoài niệm", "Buồn", "Cô đơn"],
+    "activity": ["Lái xe", "Nhớ kỷ niệm", "Suy ngẫm"],
+    "youtube": "https://youtu.be/lRsaDQtYqAo?si=dP4iUMP50bd-qpo2",
+    "spotify": "https://open.spotify.com/track/3CmacJj7VC4W6daC8BWd0h",
+    "karaoke": "https://youtu.be/LvAEgcdbgbc?si=FM4wc02W7zSHVaYn"
   },
   {
     "id": 102,
@@ -915,7 +1117,9 @@
     "genre": ["Quan họ", "V-Pop", "OST", "Dân ca"],
     "moods": ["Buồn", "Hoài niệm", "Xúc động"],
     "activity": ["Suy ngẫm", "Nhớ kỷ niệm"],
-    "url": "https://youtu.be/Tlg574e9fuU?si=LTvjnop17dJt72ev"
+    "youtube": "https://youtu.be/Tlg574e9fuU?si=H2trvbt3tXlKydAO",
+    "spotify": "https://open.spotify.com/track/5N9FD4PvFfzw0F1qu4BZWL",
+    "karaoke": "https://youtu.be/BotYuDp3wWg?si=FEkI7nPXrfdp6lAZ"
   },
   {
     "id": 103,
@@ -924,6 +1128,195 @@
     "genre": ["V-Pop", "Hiphop", "R&B", "Dân ca"],
     "moods": ["Sôi động", "Vui vẻ"],
     "activity": ["Party", "Lái xe"],
-    "url": "https://youtu.be/1IZvxVNs0OY?si=CS_TKTuKwuCEzlub"
+    "youtube": "https://youtu.be/1IZvxVNs0OY?si=Rroz4oPXuMmEZWz-",
+    "spotify": "https://open.spotify.com/track/2ttzX04k9lEbHfMt7tsglM",
+    "karaoke": "https://youtu.be/zdNiUQVMFD4?si=cMyjEEWdZOBlydn3"
+  },
+  {
+    "id": 104,
+    "title": "Rồi Em Sẽ Gặp Một Chàng Trai Khác",
+    "artist": "Lâm Bảo Ngọc",
+    "genre": ["V-Pop", "Ballad"],
+    "moods": ["Buồn", "Xúc động", "Hoài niệm"],
+    "activity": ["Suy ngẫm", "Nhớ kỷ niệm"],
+    "youtube": "https://youtu.be/5viCJm5lS-M?si=3zD6Bn3srkqsV40v",
+    "spotify": "https://open.spotify.com/track/3K7RddI2L8Wiv7uIbrhfLc",
+    "karaoke": "https://youtu.be/0O5sOHNZVUM?si=Nfg17V9B04cZfNin"
+  },
+  {
+    "id": 105,
+    "title": "Rời Bỏ",
+    "artist": "Hoà Minzy",
+    "genre": ["V-Pop", "Ballad"],
+    "moods": ["Buồn", "Xúc động"],
+    "activity": ["Suy ngẫm", "Nhớ kỷ niệm"],
+    "youtube": "https://youtu.be/zQwKxVCR1y8?si=uWml47kbEKoz2M4l",
+    "spotify": "https://open.spotify.com/track/6m3aIzxCGTQMVyfRQZEICH",
+    "karaoke": "https://youtu.be/0FQpr_HPQCc?si=qmFcrnptu2Taiee5"
+  },
+  {
+    "id": 106,
+    "title": "Bóng Phù Hoa",
+    "artist": "Phương Mỹ Chi",
+    "genre": ["V-Pop", "Dân ca", "Ballad"],
+    "moods": ["Buồn", "Hoài niệm", "Xúc động"],
+    "activity": ["Suy ngẫm", "Thư giãn"],
+    "youtube": "https://youtu.be/BmrdGQ0LRRo?si=ejK4UGWjGU7SA9m7",
+    "spotify": "https://open.spotify.com/track/3fw9v7CztM2mqu1jCtbg9f",
+    "karaoke": "https://youtu.be/qkoroV6DyHY?si=Ro-u361NefgxlouW"
+  },
+  {
+    "id": 107,
+    "title": "Một Bước Yêu Vạn Dặm Đau",
+    "artist": "Mr. Siro",
+    "genre": ["V-Pop", "Ballad"],
+    "moods": ["Buồn", "Xúc động"],
+    "activity": ["Suy ngẫm", "Nhớ kỷ niệm"],
+    "youtube": "https://youtu.be/GwCUbhE0TY0?si=RcQ9g7TXQUvhTj_R",
+    "spotify": "https://open.spotify.com/track/1u3aGopt09bxmUDs8c94XY",
+    "karaoke": "https://youtu.be/0Zc2SyERJNk?si=mTabGySdrZBgGYis"
+  },
+  {
+    "id": 108,
+    "title": "The Playah",
+    "artist": "Soobin Hoàng Sơn",
+    "genre": ["V-Pop", "R&B", "Dance"],
+    "moods": ["Sôi động", "Mạnh mẽ"],
+    "activity": ["Party", "Lái xe"],
+    "youtube": "https://youtu.be/d44UTUSTYKU?si=SFFNWwiHGU5mrF3r",
+    "spotify": "https://open.spotify.com/track/63qZf6349d3ngku9hrzLac",
+    "karaoke": "https://youtu.be/EC7znAplLIs?si=3gtviqh42nRC8epN"
+  },
+  {
+    "id": 109,
+    "title": "Dẫu có lỗi lầm",
+    "artist": ["Bùi Công Nam", "Thanh Duy", "Duy Khánh", "Thiên Minh", "Bằng Kiều", "BinZ"],
+    "genre": ["V-Pop", "Pop"],
+    "moods": ["Hoài niệm", "Lãng mạn"],
+    "activity": ["Suy ngẫm", "Nhớ kỷ niệm"],
+    "youtube": "https://youtu.be/SmHsIi5gJNc?si=s1ItKHBxV18irGxg",
+    "spotify": "https://open.spotify.com/track/6jdOqxknJi9PTw32wd3eJZ",
+    "karaoke": "https://youtu.be/7YR81FUSQ5w?si=S0rwdyecMlZXEwiX"
+  },
+  {
+    "id": 110,
+    "title": "Sớm Muộn Thì",
+    "artist": ["HUSTLANG Robber", "Nhâm Phương Nam", "Mason Nguyễn", "KHOI VU", "Jaysonlei", "Lamoon"],
+    "genre": ["V-Pop", "Hiphop"],
+    "moods": ["Vui vẻ", "Sôi động"],
+    "activity": ["Lái xe", "Party"],
+    "youtube": "https://youtu.be/XQkze4rQMsU?si=f1vVqqFRRee99njE",
+    "spotify": "https://open.spotify.com/track/4yy21UkGZ7gZEGbSERllpE",
+    "karaoke": "https://youtu.be/FOwmV6eWOQY?si=tT_l2_9TgxiIn8YF"
+  },
+  {
+    "id": 111,
+    "title": "Nàng Thơ Xứ Huế",
+    "artist": "Thuỳ Chi",
+    "genre": ["V-Pop", "Dân ca"],
+    "moods": ["Thư giãn", "Hoài niệm"],
+    "activity": ["Thư giãn", "Nhớ kỷ niệm"],
+    "youtube": "https://youtu.be/aRjg6oSrY7U?si=up2pN2pgh50_thc6",
+    "spotify": "https://open.spotify.com/track/1HDxv1ZL0AlbT13GTOOPn0",
+    "karaoke": "https://youtu.be/8HeeNjlNEsU?si=HlYsuerDIqmI_0hz"
+  },
+  {
+    "id": 112,
+    "title": "Nàng Thơ",
+    "artist": "Hoàng Dũng",
+    "genre": ["V-Pop", "Ballad"],
+    "moods": ["Lãng mạn", "Hoài niệm"],
+    "activity": ["Hẹn hò", "Suy ngẫm"],
+    "youtube": "https://youtu.be/Zzn9-ATB9aU?si=Y1EJKmumSM2pq1Y9",
+    "spotify": "https://open.spotify.com/track/1s7d2cdaZuktw5YSoDMHMu",
+    "karaoke": "https://youtu.be/Tqv0x1_QJlo?si=t1g2TT1YSxA3I3uF"
+  },
+  {
+    "id": 113,
+    "title": "Giấc Mơ Trưa",
+    "artist": "Thuỳ Chi",
+    "genre": ["V-Pop", "Dân ca"],
+    "moods": ["Mơ mộng", "Thư giãn"],
+    "activity": ["Thư giãn", "Suy ngẫm"],
+    "youtube": "https://youtu.be/u2Ix73ePWDs?si=0gV0FLvL2d06-8VB",
+    "spotify": "https://open.spotify.com/track/7mGnyV8iszJprTTUxD3aua",
+    "karaoke": "https://youtu.be/AEPKO67vEK4?si=coPVpIziCWbjNbhb"
+  },
+  {
+    "id": 114,
+    "title": "Chờ Ngày Anh Nhận Ra Em",
+    "artist": "Thuỳ Chi",
+    "genre": ["V-Pop", "Ballad", "OST"],
+    "moods": ["Lãng mạn", "Mơ mộng"],
+    "activity": ["Hẹn hò", "Suy ngẫm"],
+    "youtube": "https://youtu.be/qjaBJbWXwu8?si=zNB3SXKnfsQHd0iT",
+    "spotify": "https://open.spotify.com/track/5cEsSjND9bwxvWq600TCiH",
+    "karaoke": "https://youtu.be/bCxm36hos0Y?si=WrvmSpF7g27i0jkW"
+  },
+  {
+    "id": 115,
+    "title": "Anh Ơi Ở Lại",
+    "artist": "Chi Pu",
+    "genre": ["V-Pop", "Ballad"],
+    "moods": ["Buồn", "Xúc động"],
+    "activity": ["Suy ngẫm", "Nhớ kỷ niệm"],
+    "youtube": "https://youtu.be/3fi7uwBU-CE?si=8TSjsUgZa79f4EUu",
+    "spotify": "https://open.spotify.com/track/0VBv6oyMgeEBOIysaSV9aE",
+    "karaoke": "https://youtu.be/llzG6JFmx_k?si=_tz5irniP-gSBJhH"
+  },
+  {
+    "id": 116,
+    "title": "Duyên Phận",
+    "artist": "Như Quỳnh",
+    "genre": ["Bolero"],
+    "moods": ["Buồn", "Hoài niệm"],
+    "activity": ["Suy ngẫm", "Nhớ kỷ niệm"],
+    "youtube": "https://youtu.be/ycGfvA1vkR8?si=EA4pIyWgPAtZ5tr_",
+    "spotify": "https://open.spotify.com/track/0mRluFlgELefrmbVuc7L34",
+    "karaoke": "https://youtu.be/CZO9CbtOEmg?si=KiuvFRnjQZ097Bh0"
+  },
+  {
+    "id": 117,
+    "title": "Mục Hạ Vô Nhân",
+    "artist": ["Soobin Hoàng Sơn", "BinZ"],
+    "genre": ["V-Pop", "Hiphop", "Dân ca"],
+    "moods": ["Mạnh mẽ", "Sôi động"],
+    "activity": ["Party", "Lái xe"],
+    "youtube": "https://youtu.be/FikdKWos-NQ?si=xLQV-Zgdo4WY6YRO",
+    "spotify": "https://open.spotify.com/track/2jbwrUF3CCe68kztsvLsNC",
+    "karaoke": "https://youtu.be/S3YGtjpIEBM?si=W8mTd705dw0Why0r"
+  },
+  {
+    "id": 118,
+    "title": "Hề",
+    "artist": ["Phương Ly", "Phương Mỹ Chi", "Pháo", "Chi Xê", "WEAN"],
+    "genre": ["V-Pop", "Dance", "Pop", "Dân ca"],
+    "moods": ["Vui vẻ", "Sôi động"],
+    "activity": ["Party", "Lễ hội"],
+    "youtube": "https://youtu.be/Jh6Xz1WD3C0?si=CfzGUn60chED4kDQ",
+    "spotify": "https://open.spotify.com/track/7C0kNQRFtNhs7Ibx1Q4sLy",
+    "karaoke": "https://youtu.be/LWyX238zuTw?si=zQR2mAz9h4dDpxT_"
+  },
+  {
+    "id": 119,
+    "title": "Duyên",
+    "artist": ["Lâm Bảo Ngọc", "Phương Mỹ Chi", "Pháo", "Saabirose", "Liu Grace"],
+    "genre": ["V-Pop", "Dân ca", "Dance"],
+    "moods": ["Vui vẻ", "Sôi động"],
+    "activity": ["Party", "Lễ hội"],
+    "youtube": "https://youtu.be/5qzRmKmagtU?si=GGEIbp_WN9qU0GEX",
+    "spotify": "https://open.spotify.com/track/3NlPQh6nzQBvYsSrQYAOrl",
+    "karaoke": "https://youtu.be/lVn6DfOqEPo?si=GnWK06vnFTtLEbWI"
+  },
+  {
+    "id": 120,
+    "title": "Hermosa",
+    "artist": ["Sơn.K", "buitruonglinh", "CONGB", "Mason Nguyễn", "Tez"],
+    "genre": ["V-Pop", "Latin"],
+    "moods": ["Sôi động", "Lãng mạn"],
+    "activity": ["Party", "Hẹn hò"],
+    "youtube": "https://youtu.be/LpT3Y3taiyc?si=qSUv-K6s5Yiqnrng",
+    "spotify": "https://open.spotify.com/track/7tDEWTNvUrVDCWdOrJWATZ",
+    "karaoke": "https://youtu.be/oWbPYvH8-SY?si=UBhG0LCwLLS3s5Lm"
   }
 ]

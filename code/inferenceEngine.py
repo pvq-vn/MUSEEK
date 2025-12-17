@@ -1,63 +1,74 @@
-import json
-import os
-
-PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-SONGS_PATH = os.path.join(PROJECT_ROOT, 'data', 'songs.json')
-RULES_PATH = os.path.join(PROJECT_ROOT, 'data', 'rules.json')
-
-def load_data():
-    try:
-        with open(SONGS_PATH, 'r', encoding='utf-8') as f:
-            songs = json.load(f)
-        with open(RULES_PATH, 'r', encoding='utf-8') as f:
-            rules = json.load(f)
-        return songs, rules
-    except FileNotFoundError as e:
-        return None, None
-    except json.JSONDecodeError as e:
-        return None, None
-
 def get_recommendations(user_input, songs, rules, top_n):
     if not songs or not rules:
         return []
 
-    song_scores = {song['title']: 0 for song in songs}
+    # Bước 1: So khớp mẫu
+    
+    # +35 cho những bài có thể loại trùng với input
+    preferred_genres = {user_input.get('the_loai_yeu_thich'): 35} if user_input.get('the_loai_yeu_thich') else {}
+    preferred_artists = {}
+    
+    # Duyệt qua tập luật
+    for rule in rules:
+        # Bỏ qua những rule đánh dấu
+        if not isinstance(rule, dict) or 'condition' not in rule or 'effect' not in rule:
+            continue
 
+        conditions = rule['condition']
+        
+        # Kiểm tra tất cả các điều kiện của luật, nếu không khớp thì bỏ qua
+        is_match = True
+        for key, value in conditions.items():
+            if user_input.get(key) != value:
+                is_match = False
+                break
+        
+        # Nếu luật khớp thì kích hoạt effect
+        if is_match:
+            effect = rule['effect']
+            target = effect['target']
+            score = effect['score']
+            e_type = effect['type']
+            
+            if e_type == 'the_loai':
+                preferred_genres[target] = preferred_genres.get(target, 0) + score
+            elif e_type == 'nghe_si':
+                preferred_artists[target] = preferred_artists.get(target, 0) + score
+
+    # Bước 2: Tính điểm cho từng bài hát
+    
+    song_scores = []
+    
     user_mood = user_input.get('tam_trang')
     user_activity = user_input.get('hoat_dong')
-    user_genre = user_input.get('the_loai_yeu_thich')
 
     for song in songs:
-        if user_mood and user_mood in song.get('moods', []):
-            song_scores[song['title']] += 35
-        if user_activity and user_activity in song.get('activity', []):
-            song_scores[song['title']] += 35
-        if user_genre and user_genre in song.get('genre', []):
-            song_scores[song['title']] += 35
-
-    for rule in rules:
-        condition_key, condition_value = list(rule['condition'].items())[0]
+        total_score = 0
         
-        if condition_key in user_input and user_input[condition_key] == condition_value:
-            effect = rule['effect']
-            effect_type = effect['type']
-            effect_target = effect['target']
-            effect_score = effect['score']
-
-            for song in songs:
-                if effect_type == 'the_loai':
-                    if effect_target in song.get('genre', []):
-                        song_scores[song['title']] += effect_score
+        # 1. Điểm từ moods và activity thông qua đối sánh trực tiếp
+        if user_mood and user_mood in song.get('moods', []):
+            total_score += 35
+        if user_activity and user_activity in song.get('activity', []):
+            total_score += 35
+            
+        # 2. Điểm từ genre thông qua suy diễn
+        for genre in song.get('genre', []):
+            if genre in preferred_genres:
+                total_score += preferred_genres[genre]
                 
-                elif effect_type == 'nghe_si':
-                    artist_field = song.get('artist', [])
-                    if isinstance(artist_field, list):
-                        if effect_target in artist_field:
-                            song_scores[song['title']] += effect_score
-                    elif isinstance(artist_field, str):
-                        if effect_target == artist_field:
-                            song_scores[song['title']] += effect_score
+        # 3. Điểm từ artist thông qua suy diễn
+        artists = song.get('artist', [])
+        if isinstance(artists, str):
+            artists = [artists]
+            
+        for artist in artists:
+            if artist in preferred_artists:
+                total_score += preferred_artists[artist]
 
-    sorted_songs = sorted(song_scores.items(), key=lambda item: item[1], reverse=True)
-    final_recommendations = [(song, score) for song, score in sorted_songs if score > 0]
-    return final_recommendations[:top_n]
+        if total_score > 0:
+            # Trả về title và score
+            song_scores.append((song['title'], total_score))
+
+    # Sắp xếp giảm dần để lấy ra top_n bài hát có điểm cao nhất
+    song_scores.sort(key=lambda x: x[1], reverse=True)
+    return song_scores[:top_n]
