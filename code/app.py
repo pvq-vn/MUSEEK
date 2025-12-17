@@ -202,12 +202,12 @@ if st.session_state.recommendations and len(st.session_state.recommendations) > 
                 st.divider()
                 t = current_active['type']
                 if t == 'mv':
-                    st.video(song_data.get('youtube')) if song_data.get('youtube') else st.warning("No Video")
+                    _ = st.video(song_data.get('youtube')) if song_data.get('youtube') else st.warning("No Video")
                 elif t == 'spotify':
                     l = song_data.get('spotify')
-                    components.iframe(convert_spotify_link(l), height=80) if l else st.warning("No Spotify")
+                    _ = components.iframe(convert_spotify_link(l), height=80) if l else st.warning("No Spotify")
                 elif t == 'karaoke':
-                    st.video(song_data.get('karaoke')) if song_data.get('karaoke') else st.warning("No Karaoke")
+                    _ = st.video(song_data.get('karaoke')) if song_data.get('karaoke') else st.warning("No Karaoke")
 
 elif st.session_state.recommendations is not None:
     st.warning("Sì tai nhạc của bạn hơi lạ nên mình botay.com")
