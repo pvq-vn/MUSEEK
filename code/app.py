@@ -22,7 +22,7 @@ st.set_page_config(
         Project học phần IT3160 - Nhập môn TTNT
         
         **GVHD:** Đỗ Tiến Dũng
-                
+
         **Sinh viên thực hiện:**
         * Phạm Văn Quyết - 202416331
         * Lớp: Khoa học máy tính 02 - K69
@@ -75,9 +75,9 @@ def set_active_media(index, media_type):
         st.session_state.active_media = {'index': index, 'type': media_type}
 
 def reset_callback():
-    st.session_state.mood_box = ""
-    st.session_state.act_box = ""
-    st.session_state.genre_box = ""
+    st.session_state.mood_box = None
+    st.session_state.act_box = None
+    st.session_state.genre_box = None
     st.session_state.engine_choice = None
     st.session_state.recommendations = None
     st.session_state.active_media = None
@@ -104,13 +104,13 @@ with st.container(border=True):
         c1, c2, c3 = st.columns(3)
         with c1:
             st.markdown('<p class="input-label">Bạn đang cảm thấy thế nào?</p>', unsafe_allow_html=True)
-            selected_mood = st.selectbox("Mood", [""] + mood_options, key="mood_box", label_visibility="collapsed", placeholder="Chọn tâm trạng")
+            selected_mood = st.selectbox("Mood", mood_options, key="mood_box", label_visibility="collapsed", placeholder="Chọn tâm trạng", index=None)
         with c2:
             st.markdown('<p class="input-label">Bạn đang làm gì?</p>', unsafe_allow_html=True)
-            selected_activity = st.selectbox("Activity", [""] + activity_options, key="act_box", label_visibility="collapsed", placeholder="Chọn hoạt động")
+            selected_activity = st.selectbox("Activity", activity_options, key="act_box", label_visibility="collapsed", placeholder="Chọn hoạt động", index=None)
         with c3:
             st.markdown('<p class="input-label">Gu nhạc của bạn là thể loại nào?</p>', unsafe_allow_html=True)
-            selected_genre = st.selectbox("Genre", [""] + genre_options, key="genre_box", label_visibility="collapsed", placeholder="Chọn thể loại yêu thích")
+            selected_genre = st.selectbox("Genre", genre_options, key="genre_box", label_visibility="collapsed", placeholder="Chọn thể loại yêu thích", index=None)
 
         st.write("")
 
@@ -167,7 +167,7 @@ if st.session_state.recommendations and len(st.session_state.recommendations) > 
 
         with st.container(border=True):
             raw_artist = song_data.get('artist', "Unknown")
-            artist_str = "- ".join(raw_artist) if isinstance(raw_artist, list) else str(raw_artist)
+            artist_str = " - ".join(raw_artist) if isinstance(raw_artist, list) else str(raw_artist)
             
             col_info, col_act = st.columns(2, vertical_alignment="center")
             
@@ -182,10 +182,10 @@ if st.session_state.recommendations and len(st.session_state.recommendations) > 
                               args=(i, 'mv'), use_container_width=True)
                 with bt2:
                     st.button("🎧 Spotify", key=f"sp_{i}", on_click=set_active_media,
-                              args=(i, 'sp'), use_container_width=True)
+                              args=(i, 'spotify'), use_container_width=True)
                 with bt3:
                     st.button("🎤 Karaoke", key=f"ka_{i}", on_click=set_active_media,
-                              args=(i, 'ka'), use_container_width=True)
+                              args=(i, 'karaoke'), use_container_width=True)
 
             current_active = st.session_state.active_media
             if current_active and current_active['index'] == i:

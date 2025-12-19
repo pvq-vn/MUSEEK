@@ -18,9 +18,9 @@ def get_recommendations_rule_engine(user_input, songs, rules, top_n):
         rule_string = " and ".join(conditions_list)
 
         try:
-            rule = rule_engine.Rule(rule_string)
+            engine_rule = rule_engine.Rule(rule_string)
 
-            if rule.matches(user_input):
+            if engine_rule.matches(user_input):
                 effect = rule['effect']
                 target = effect['target']
                 score = effect['score']
@@ -47,7 +47,7 @@ def get_recommendations_rule_engine(user_input, songs, rules, top_n):
             total_score += 35
         if user_activity and user_activity in song.get('activity', []):
             total_score += 35
-        if user_genre and user_genre in song.get('the_loai_yeu_thich', []):
+        if user_genre and user_genre in song.get('genre', []):
             total_score += 35
 
         for genre in song.get('genre', []):
