@@ -38,11 +38,11 @@ def get_recommendations(user_input, songs, rules, top_n):
         total_score = 0
         
         if user_mood and user_mood in song.get('moods', []):
-            total_score += 35
+            total_score += 50
         if user_activity and user_activity in song.get('activity', []):
-            total_score += 35
+            total_score += 50
         if user_genre and user_genre in song.get('genre', []):
-            total_score += 35
+            total_score += 50
             
         for genre in song.get('genre', []):
             if genre in preferred_genres:

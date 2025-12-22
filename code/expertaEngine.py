@@ -80,13 +80,13 @@ def get_recommendations_experta(user_input, songs, rules, top_n):
         song_genres = song.get('genre', [])
 
         if user_mood and user_mood in song_moods: 
-            total_score += 35
+            total_score += 50
         
         if user_activity and user_activity in song_activities: 
-            total_score += 35
+            total_score += 50
 
         if user_genre_input and user_genre_input in song_genres: 
-            total_score += 35
+            total_score += 50
 
         for genre in song_genres:
             if genre in preferred_genres:

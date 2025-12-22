@@ -1151,9 +1151,10 @@
     "condition": {"the_loai_yeu_thich": "World music"},
     "effect": {"type": "nghe_si", "target": "Jack", "score": 20}
   },
-
-  {"Chú thích": "kết hợp 2 conditions"},
-
+  {
+    "condition": {"the_loai_yeu_thich": "Bolero"},
+    "effect": {"type": "nghe_si", "target": "Như Quỳnh", "score": 20}
+  },
   {
     "condition": {"tam_trang": "Buồn", "hoat_dong": "Party"},
     "effect": {"type": "the_loai", "target": "EDM", "score": 50}
@@ -1194,13 +1195,10 @@
     "condition": {"tam_trang": "Hoài niệm", "hoat_dong": "Nhớ kỷ niệm"},
     "effect": {"type": "the_loai", "target": "Bolero", "score": 50}
   },
-   {
+  {
     "condition": {"tam_trang": "Hoài niệm", "hoat_dong": "Nhớ kỷ niệm"},
     "effect": {"type": "the_loai", "target": "V-Pop", "score": 45}
   },
-
-  {"Chú thích": "kết hợp 3 conditions"},
-
   {
     "condition": {"tam_trang": "Buồn", "hoat_dong": "Suy ngẫm", "the_loai_yeu_thich": "Hiphop"},
     "effect": {"type": "the_loai", "target": "Hiphop", "score": 70}
