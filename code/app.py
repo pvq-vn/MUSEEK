@@ -126,7 +126,7 @@ with st.container(border=True):
                 horizontal=True,
                 key="engine_choice",
                 label_visibility="collapsed",
-                index = None
+                index = 0
             )
 
         st.divider()
@@ -161,7 +161,11 @@ st.write("")
 if st.session_state.recommendations and len(st.session_state.recommendations) > 0:
     st.success("##### Đây là những giai điệu dành cho bạn 😊")
     
-    for i, (song_title, score) in enumerate(st.session_state.recommendations):
+    for i, item in enumerate(st.session_state.recommendations):
+        song_title = item['title']
+        score = item['score']
+        reasons = item.get('reasons', [])
+
         song_data = get_song_info(song_title, recommender_system.songs_db)
         if not song_data: continue
 
@@ -174,6 +178,12 @@ if st.session_state.recommendations and len(st.session_state.recommendations) > 
             with col_info:
                 st.markdown(f"#### {i+1}. {song_title}")
                 st.caption(f"👤 Nghệ sĩ: {artist_str}")
+
+                if reasons:
+                    with st.expander("Tại sao gợi ý bài này?"):
+                        for r in reasons:
+                            st.markdown(f"- {r}")
+                        st.markdown(f"-> **Tổng điểm {score} - Xếp hạng {i+1}**")
             
             with col_act:
                 bt1, bt2, bt3 = st.columns(3)

@@ -86,7 +86,7 @@ def get_recommendations_experta(user_input, songs, rules, top_n):
             total_score += 50
 
         if user_genre_input and user_genre_input in song_genres: 
-            total_score += 50
+            total_score += 75
 
         for genre in song_genres:
             if genre in preferred_genres:
@@ -100,7 +100,9 @@ def get_recommendations_experta(user_input, songs, rules, top_n):
                 total_score += preferred_artists[artist]
 
         if total_score > 0:
-            song_scores.append((song['title'], total_score))
-
-    song_scores.sort(key=lambda x: x[1], reverse=True)
+            song_scores.append({
+                'title': song['title'],
+                'score': total_score,
+            })
+    song_scores.sort(key=lambda x: x['score'], reverse=True)
     return song_scores[:top_n]
