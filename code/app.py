@@ -78,13 +78,13 @@ def reset_callback():
     st.session_state.mood_box = None
     st.session_state.act_box = None
     st.session_state.genre_box = None
-    st.session_state.engine_choice = None
+    st.session_state.engine_choice = 1
     st.session_state.recommendations = None
     st.session_state.active_media = None
 
 if 'recommendations' not in st.session_state: st.session_state.recommendations = None 
 if 'active_media' not in st.session_state: st.session_state.active_media = None 
-if 'engine_choice' not in st.session_state: st.session_state.engine_choice = None
+if 'engine_choice' not in st.session_state: st.session_state.engine_choice = 1
 
 recommender_system = load_recommender()
 apply_custom_style()
