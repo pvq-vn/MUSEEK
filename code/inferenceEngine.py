@@ -26,7 +26,7 @@ def get_recommendations(user_input, songs, rules, top_n):
             score = effect['score']
             e_type = effect['type']
 
-            reason_str = f"Luật khớp ({', '.join(match_details)}) -> {e_type} {target}: {score:+} điểm"
+            reason_str = f'Luật khớp "{', '.join(match_details)}" -> {e_type} {target}: {score:+} điểm'
             
             if e_type == 'the_loai':
                 preferred_genres[target] = preferred_genres.get(target, 0) + score
@@ -49,15 +49,15 @@ def get_recommendations(user_input, songs, rules, top_n):
         
         if user_mood and user_mood in song.get('moods', []):
             total_score += 50
-            reasons.append(f"Đang '{user_mood}' nên +50 điểm")
+            reasons.append(f"Đang {user_mood} nên +50 điểm")
 
         if user_activity and user_activity in song.get('activity', []):
             total_score += 50
-            reasons.append(f"Đang '{user_activity}' nên +50 điểm")
+            reasons.append(f"Đang {user_activity} nên +50 điểm")
 
         if user_genre and user_genre in song.get('genre', []):
             total_score += 75
-            reasons.append(f"Vì thích '{user_genre}' nên +75 điểm")
+            reasons.append(f"Vì thích {user_genre} nên +75 điểm")
             
         for genre in song.get('genre', []):
             if genre in preferred_genres:
