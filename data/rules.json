@@ -501,10 +501,6 @@
   },
   {
     "condition": {"hoat_dong": "Party"},
-    "effect": {"type": "the_loai", "target": "EDM", "score": 30}
-  },
-  {
-    "condition": {"hoat_dong": "Party"},
     "effect": {"type": "the_loai", "target": "Dance", "score": 30}
   },
   {

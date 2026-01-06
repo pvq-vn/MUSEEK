@@ -77,7 +77,7 @@ def get_recommendations(user_input, songs, rules, top_n):
             song_scores.append({
                 'title': song['title'],
                 'score': total_score,
-                'reasons': list(set(reasons))
+                'reasons': reasons
             })
 
     song_scores.sort(key=lambda x: x['score'], reverse=True)

@@ -1,38 +1,52 @@
 import rule_engine
 
-def get_recommendations_rule_engine(user_input, songs, rules, top_n):
-    preferred_genres = {}
-    preferred_artists = {}
+COMPILED_RULE_CACHE = []
+
+def preCompile(rules):
+    global COMPILED_RULE_CACHE
+    COMPILED_RULE_CACHE = []
 
     for rule in rules:
         if not isinstance(rule, dict) or 'condition' not in rule or 'effect' not in rule:
             continue
-                
-        conditions_list = []
+
+        condition_list = []
         for key, value in rule['condition'].items():
             if isinstance(value, str):
-                conditions_list.append(f'{key} == "{value}"')
+                condition_list.append(f'{key} == "{value}"')
             else:
-                conditions_list.append(f'{key} == {value}')
-        
-        rule_string = " and ".join(conditions_list)
+                condition_list.append(f'{key} == {value}')
+
+        rule_string = "and ".join(condition_list)
 
         try:
             engine_rule = rule_engine.Rule(rule_string)
-
-            if engine_rule.matches(user_input):
-                effect = rule['effect']
-                target = effect['target']
-                score = effect['score']
-                e_type = effect['type']
-
-                if e_type == 'the_loai':
-                    preferred_genres[target] = preferred_genres.get(target, 0) + score
-                elif e_type == 'nghe_si':
-                    preferred_artists[target] = preferred_artists.get(target, 0) + score
-
+            COMPILED_RULE_CACHE.append({
+                'ast': engine_rule,
+                'effect': rule['effect']
+            })
         except Exception:
             continue
+
+def get_recommendations_rule_engine(user_input, songs, rules, top_n):
+    if not COMPILED_RULE_CACHE: preCompile(rules)
+
+    preferred_genres = {}
+    preferred_artists = {}
+
+    for item in COMPILED_RULE_CACHE:
+        engine_rule = item['ast']
+
+        if engine_rule.matches(user_input):
+            effect = item['effect']
+            target = effect['target']
+            score = effect['score']
+            e_type = effect['type']
+
+            if e_type == 'the_loai':
+                preferred_genres[target] = preferred_genres.get(target, 0) + score
+            elif e_type == 'nghe_si':
+                preferred_artists[target] = preferred_artists.get(target, 0) + score
 
     song_scores = []
 
